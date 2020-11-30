@@ -7,3 +7,4 @@ jupyter nbextension enable codefolding/edit
 jupyter nbextension enable hinterland/hinterland
 jupyter nbextension enable varInspector/main
 jupyter nbextension enable snippets_menu/main
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
