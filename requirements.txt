@@ -2,4 +2,5 @@ numpy>=1.15.4
 bokeh==2.2.3
 pandas==1.1.4
 ipywidgets
+qgrid
 jupyter_contrib_nbextensions
