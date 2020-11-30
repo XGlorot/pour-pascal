@@ -1,12 +1,13 @@
 jupyter contrib nbextension install --user
-jupyter nbextension enable collapsible_headings/main
-jupyter nbextension enable code_prettify/autopep8
-jupyter nbextension enable help_panel/help_panel
-jupyter nbextension enable spellchecker/main
-jupyter nbextension enable codefolding/main
 jupyter nbextension enable codefolding/edit
+jupyter nbextension enable codefolding/main
+jupyter nbextension enable code_prettify/autopep8
+jupyter nbextension enable collapsible_headings/main
+jupyter nbextension enable help_panel/help_panel
 jupyter nbextension enable hinterland/hinterland
-jupyter nbextension enable varInspector/main
+jupyter nbextension enable spellchecker/main
 jupyter nbextension enable snippets_menu/main
-jupyter nbextension enable --py --sys-prefix widgetsnbextension
+jupyter nbextension enable splitcell/splitcell
+jupyter nbextension enable varInspector/main
 jupyter nbextension enable --py --sys-prefix qgrid
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
