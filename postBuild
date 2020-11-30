@@ -1,4 +1,5 @@
 jupyter contrib nbextension install --user
+jupyter nbextension enable collapsible_headings/main
 jupyter nbextension enable code_prettify/autopep8
 jupyter nbextension enable help_panel/help_panel
 jupyter nbextension enable spellchecker/main
