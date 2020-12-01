@@ -3,12 +3,8 @@ name = ['polio', 'dtap', 'polio', 'MMR', 'Hib', 'varicelle',
         'hepatB', 'hepatA','PCV', 'rotavirus']
 
 for nn in name:
-  if nn != 'polio':
-    sep = ";"
-    offset = 2
-  else:
-    sep = ","
-    offset = 4
+  sep = ";"
+  offset = 2
   f = open(nn + '.csv')
   header = f.readline().split(sep)[:-1]
   header_idx = numpy.nonzero([(i != '')*1. for i in header])[0]
@@ -19,13 +15,13 @@ for nn in name:
   c = f.readline()
   while c:
     parsed = c.split(sep)[:-1]
-    location = parsed[0]
+    location = parsed[0].replace(',', ' ')
     idx = 1
     while idx < len(header):
       if (idx in header_idx):
-        dose = header[idx][1:]
+        dose = header[idx][1:].replace(',', ' ')
       if (idx in age_idx):
-        ag = age[idx]
+        ag = age[idx].replace(',', ' ')
       if title[idx] == 'SAMPLE SIZE':
         idx += 2
       if idx >= len(header):
