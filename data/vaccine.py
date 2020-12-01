@@ -1,3 +1,4 @@
+import numpy
 name = ['polio', 'dtap', 'polio', 'MMR', 'Hib', 'varicelle',
         'hepatB', 'hepatA','PCV', 'rotavirus']
 
@@ -60,8 +61,8 @@ for nn in name:
         idx = idx + 4
     c = f.readline()
   f.close()
-  f = open(nn + '_row.csv', 'w')
-  f.write("dose,category,location,year,coverage,low,high,size\n")
+  f = open(nn + '_row.txt', 'w')
+  f.write('dose,category,location,year,coverage,low,high,size\n')
   for i in dd:
-    f.write("%s,%s,%s,%d,%f,%f,%f,%f\n"%(i[0], i[1], i[2], i[3], dd[i][0], dd[i][1], dd[i][2], dd[i][3]))
+    f.write('%s,%s,%s,%d,%f,%f,%f,%f\n'%(i[0], i[1], i[2], i[3], dd[i][0], dd[i][1], dd[i][2], dd[i][3]))
   f.close()
