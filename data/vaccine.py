@@ -1,4 +1,6 @@
 import numpy
+import re
+
 name = ['dtap', 'polio', 'MMR', 'Hib', 'varicelle',
         'hepatB', 'hepatA','PCV', 'rotavirus']
 
@@ -6,22 +8,18 @@ for nn in name:
   sep = ";"
   offset = 2
   f = open(nn + '.csv')
-  header = f.readline().split(sep)[:-1]
-  header_idx = numpy.nonzero([(i != '')*1. for i in header])[0]
-  age = f.readline().split(sep)[:-1]
-  age_idx = numpy.nonzero([(i != '')*1. for i in age])[0]
-  title = f.readline().split(sep)[:-1]
+  header = f.readline().split(sep)[: -1]
+  header_idx = numpy.nonzero([(i != '') * 1. for i in header])[0]
+  age = f.readline().split(sep)[: -1]
+  age_idx = numpy.nonzero([(i != '') * 1. for i in age])[0]
+  title = f.readline().split(sep)[: -1]
   dd = {}
   c = f.readline()
   while c:
-    parsed = c.split(sep)[:-1]
+    parsed = c.split(sep)[: -1]
     location = parsed[0].replace(',', ' ')
     idx = 1
     while idx < len(header):
-      if (idx in header_idx):
-        dose = header[idx][1:].replace(',', ' ')
-      if (idx in age_idx):
-        ag = age[idx].replace(',', ' ')
       if title[idx] == 'SAMPLE SIZE':
         idx += 2
       if idx >= len(header):
@@ -30,27 +28,37 @@ for nn in name:
         idx += 1
       if idx >= len(header):
         break
+      if (idx in header_idx):
+        dose = re.sub('\W+','', header[idx]).replace(',', ' ')
+        if dose[0] == ' ':
+            dose = dose[1:]
+      if (idx in age_idx):
+        ag = age[idx].replace(',', ' ')
       year = int(title[idx])
       if (parsed[idx] != '') and (parsed[idx] != 'NaN') and (parsed[idx] != 'NA') :
         value = float(parsed[idx])
-        if title[idx+1] == 'LL':
-          assert(title[idx+1] == 'LL')
-          LL = float(parsed[idx+1])
-          assert(title[idx+2] == 'UL')
-          UL = float(parsed[idx+2])
-          assert(title[idx+4] == 'SAMPLE SIZE')
-          SIZE = float(parsed[idx+4])
+        if title[idx + 1] == 'LL':
+          assert(title[idx + 1] == 'LL')
+          LL = float(parsed[idx + 1])
+          assert(title[idx + 2] == 'UL')
+          UL = float(parsed[idx + 2])
+          assert(title[idx + 4] == 'SAMPLE SIZE')
+          SIZE = float(parsed[idx + 4])
           idx = idx + 6
         else:
-          assert(title[idx+1] == 'CI')
-          if parsed[idx+1] == 'NaN':
-            LL = value - float(parsed[idx+1])
-            UL = value + float(parsed[idx+1])
+          assert(title[idx + 1] == 'CI')
+          if parsed[idx + 1] == 'NaN':
+            LL = value - float(parsed[idx + 1])
+            UL = value + float(parsed[idx + 1])
           else:
-            LL = value - float(parsed[idx+1][offset:-1])
-            UL = value + float(parsed[idx+1][offset:-1])
-          assert(title[idx+2] == 'SAMPLE SIZE')
-          SIZE = float(parsed[idx+2])
+            LL = value - float(parsed[idx + 1][offset: -1])
+            UL = value + float(parsed[idx + 1][offset: -1])
+          if LL < 0.:
+                LL = 0.
+          if UL > 100.:
+                UL = 100.
+          assert(title[idx + 2] == 'SAMPLE SIZE')
+          SIZE = float(parsed[idx + 2])
           idx = idx + 4
         dd[(dose, ag, location, year)] = (value, LL, UL, SIZE)
       else:
