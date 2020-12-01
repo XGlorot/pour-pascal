@@ -1,6 +1,6 @@
-race = {1:'White', 2:'Black', 3:'Indian', 4:'Asian'}
-origin = {0:'Non-hispanic', 1:'Hispanic'}
-sex = {1:"Male", 2:"Female"}
+race = {1: 'White', 2: 'Black', 3: 'Indian', 4: 'Asian'}
+origin = {0: 'Non-hispanic', 1: 'Hispanic'}
+sex = {1: "Male", 2: "Female"}
 
 def parse_sensus(ll):
   dd = dict()
@@ -23,8 +23,9 @@ while l:
     if curr['age'] > 18:
       curr['age'] = 18
     if (curr['year'], curr['fips'], curr['age']) in census_dict:
-      census_dict[(curr['year'], curr['fips'], curr['age'])] = [census_dict[(curr['year'], curr['fips'], curr['age'])][0] + curr['pop'],
-                                                                census_dict[(curr['year'], curr['fips'], curr['age'])][1] + 1]
+      census_dict[(curr['year'], curr['fips'], curr['age'])] = [
+        census_dict[(curr['year'], curr['fips'], curr['age'])][0] + curr['pop'],
+        census_dict[(curr['year'], curr['fips'], curr['age'])][1] + 1]
     else:
       census_dict[(curr['year'], curr['fips'], curr['age'])] = [curr['pop'], 0]
   l = f.readline()
@@ -32,5 +33,6 @@ while l:
 f = open('census.txt', 'w')
 f.write('year,fips,age,pop\n' )
 for i in census_dict:
-  f.write(str(i[0]) + ',' + i[1] + ',' + str(i[2]) + ',' + str(census_dict[i][0])+'\n' )
+  f.write(str(i[0]) + ',' + i[1] + ',' + str(i[2]) + 
+          ',' + str(census_dict[i][0])+'\n')
 f.close()
