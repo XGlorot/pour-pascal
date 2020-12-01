@@ -1,5 +1,5 @@
 import numpy
-name = ['polio', 'dtap', 'polio', 'MMR', 'Hib', 'varicelle',
+name = ['dtap', 'polio', 'MMR', 'Hib', 'varicelle',
         'hepatB', 'hepatA','PCV', 'rotavirus']
 
 for nn in name:
