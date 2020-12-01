@@ -5,7 +5,7 @@ jupyter nbextension enable code_prettify/autopep8
 jupyter nbextension enable collapsible_headings/main
 jupyter nbextension enable execute_time/ExecuteTime
 jupyter nbextension enable help_panel/help_panel
-jupyter nbextension enable hide_input_all/main
+jupyter nbextension enable hide_input/main
 jupyter nbextension enable highlight_selected_word/main
 jupyter nbextension enable hinterland/hinterland
 jupyter nbextension enable init_cell/main
