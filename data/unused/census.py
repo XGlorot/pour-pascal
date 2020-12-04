@@ -31,7 +31,7 @@ while l:
   l = f.readline()
                                       
 f = open('census.txt', 'w')
-f.write('Year,Fips,Age,Population\n' )
+f.write('year,fips,age,population\n' )
 for i in census_dict:
   f.write(str(i[0]) + ',' + i[1] + ',' + str(i[2]) + 
           ',' + str(census_dict[i][0])+'\n')
