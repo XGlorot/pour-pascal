@@ -66,7 +66,7 @@ for nn in name:
     c = f.readline()
   f.close()
   f = open(nn + '_row.txt', 'w')
-  f.write('Dose,Category,Location,Year,Coverage,Lower CI,Higher CI,size\n')
+  f.write('Dose,Category,Location,Denominator,Coverage,Lower CI,Higher CI,Year\n')
   for i in dd:
-    f.write('%s,%s,%s,%d,%f,%f,%f,%f\n'%(i[0], i[1], i[2], i[3], dd[i][0], dd[i][1], dd[i][2], dd[i][3]))
+    f.write('%s,%s,%s,%f,%f,%f,%f,%d\n'%(i[0], i[1], i[2], dd[i][3], i[3], dd[i][0], dd[i][1], dd[i][2]))
   f.close()
