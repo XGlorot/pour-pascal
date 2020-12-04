@@ -119,6 +119,7 @@ for nn in name:
           assert(title[idx + 2] == 'SAMPLE SIZE')
           SIZE = float(parsed[idx + 2])
           idx = idx + 4
+        print(location)
         if location in us_state_abbrev:
             dd[(dose, ag, us_state_abbrev[location], year)] = (value, LL, UL, SIZE)
       else:
