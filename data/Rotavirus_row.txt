@@ -10,6 +10,7 @@ RotavirusVaccinationWIC,Not Participating ,PA,370.000000,84.000000,78.400000,88.
 RotavirusVaccinationFacilityType,Mixed,SD,62.000000,56.500000,41.700000,70.200000,2010
 RotavirusVaccinationPoverty,Living At or Above Poverty,MI,297.000000,69.600000,61.100000,77.000000,2011
 RotavirusVaccinationWIC,Not Participating ,GA,157.000000,78.100000,68.500000,85.400000,2017
+RotavirusVaccinationUrbanicity,Living In An MSA Central City,US,5873.000000,72.400000,70.100000,74.600000,2013
 RotavirusVaccinationPoverty,Living At or Above Poverty,TX,851.000000,66.800000,61.000000,72.200000,2010
 RotavirusVaccinationWIC,Not Participating ,OK,93.000000,71.000000,58.200000,81.100000,2015
 RotavirusVaccinationFacilityType,Mixed,NH,40.000000,78.900000,62.100000,89.500000,2012
@@ -23,6 +24,7 @@ RotavirusVaccinationAge,19-35 Months,MN,289.000000,82.600000,76.500000,87.400000
 RotavirusVaccinationFacilityType,Mixed,WV,62.000000,45.100000,32.300000,58.600000,2010
 RotavirusVaccinationVFCProgramProvider,Participating,OR,291.000000,31.200000,25.200000,37.800000,2009
 RotavirusVaccinationAge,19 Months,MN,195.000000,80.300000,72.500000,86.300000,2013
+RotavirusVaccinationVFCProgramProvider,Not Participating ,US,2061.000000,48.400000,44.800000,52.100000,2009
 RotavirusVaccinationWIC,Participating,IA,98.000000,74.100000,62.900000,82.900000,2017
 RotavirusVaccinationWIC,Not Participating ,MN,130.000000,85.000000,75.000000,91.500000,2013
 RotavirusVaccinationWIC,Not Participating ,WY,175.000000,79.300000,71.800000,85.200000,2017
@@ -44,6 +46,7 @@ RotavirusVaccinationAge,7 Months,NY,543.000000,74.300000,69.600000,78.500000,201
 RotavirusVaccinationFacilityType,Other,PA,163.000000,74.600000,60.200000,85.000000,2017
 RotavirusVaccinationFacilityType,Mixed,CO,45.000000,55.000000,36.800000,72.000000,2014
 RotavirusVaccinationRaceEthnicity,Hispanic,WA,52.000000,57.400000,40.300000,73.000000,2012
+RotavirusVaccinationPoverty,Living Below Poverty,US,3366.000000,65.500000,62.400000,68.500000,2016
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,FL,148.000000,71.000000,58.400000,81.000000,2017
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,ID,80.000000,74.100000,58.800000,85.200000,2012
 RotavirusVaccinationFacilityType,Other,CA,40.000000,67.300000,42.400000,85.200000,2013
@@ -67,6 +70,7 @@ RotavirusVaccinationWIC,Not Participating ,MD,239.000000,82.500000,74.200000,88.
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,ID,97.000000,63.200000,49.900000,74.800000,2012
 RotavirusVaccinationAge,19-35 Months,TN,297.000000,71.100000,64.000000,77.200000,2011
 RotavirusVaccinationFacilityType,Private,MA,196.000000,87.500000,79.900000,92.500000,2017
+RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,US,1055.000000,70.600000,65.100000,75.500000,2015
 RotavirusVaccinationAge,7 Months,KY,350.000000,45.300000,39.600000,51.200000,2009
 RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,HI,47.000000,77.600000,56.100000,90.400000,2013
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,VA,181.000000,80.800000,69.200000,88.700000,2014
@@ -79,6 +83,7 @@ RotavirusVaccinationWIC,Participating,AK,91.000000,72.200000,61.600000,80.700000
 RotavirusVaccinationFacilityType,Public,SD,52.000000,42.000000,27.400000,58.200000,2012
 RotavirusVaccinationWIC,Participating,KS,102.000000,69.800000,59.100000,78.600000,2013
 RotavirusVaccinationRaceEthnicity,Hispanic,LA,30.000000,80.100000,57.800000,92.200000,2016
+RotavirusVaccinationFacilityType,Mixed,US,2111.000000,72.400000,68.900000,75.600000,2013
 RotavirusVaccinationWIC,Participating,LA,168.000000,64.100000,53.600000,73.500000,2014
 RotavirusVaccinationAge,7 Months,MD,361.000000,74.600000,65.700000,81.900000,2017
 RotavirusVaccinationFacilityType,Other,CO,31.000000,86.900000,68.300000,95.400000,2011
@@ -134,6 +139,7 @@ RotavirusVaccinationFacilityType,Private,MA,170.000000,82.900000,74.100000,89.20
 RotavirusVaccinationAge,19-35 Months,CT,213.000000,81.100000,74.000000,86.600000,2013
 RotavirusVaccinationAge,7 Months,KY,243.000000,68.500000,60.800000,75.200000,2016
 RotavirusVaccinationAge,24 Months,GA,270.000000,71.600000,63.300000,78.700000,2014
+RotavirusVaccinationPoverty,Unknown poverty,US,525.000000,63.700000,56.900000,69.900000,2012
 RotavirusVaccinationFacilityType,Public,NH,39.000000,93.600000,76.300000,98.500000,2017
 RotavirusVaccinationPoverty,Living At or Above Poverty,KY,188.000000,71.900000,62.700000,79.500000,2011
 RotavirusVaccinationFacilityType,Private,AZ,156.000000,75.900000,64.800000,84.400000,2013
@@ -234,6 +240,7 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,WY,236.000000,55.5000
 RotavirusVaccinationWIC,Participating,MO,185.000000,58.500000,49.800000,66.600000,2011
 RotavirusVaccinationFacilityType,Private,VA,269.000000,74.300000,67.100000,80.400000,2010
 RotavirusVaccinationAge,24 Months,KS,234.000000,77.500000,69.600000,83.900000,2014
+RotavirusVaccinationFacilityType,Other,US,2468.000000,68.500000,64.700000,72.000000,2013
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,LA,167.000000,66.300000,55.400000,75.600000,2012
 RotavirusVaccinationAge,19 Months,WI,218.000000,79.100000,71.900000,84.800000,2017
 RotavirusVaccinationFacilityType,Other,ND,121.000000,82.900000,73.500000,89.500000,2015
@@ -243,6 +250,7 @@ RotavirusVaccinationWIC,Participating,MD,100.000000,77.600000,65.800000,86.20000
 RotavirusVaccinationAge,24 Months,TN,237.000000,71.100000,63.200000,77.900000,2016
 RotavirusVaccinationWIC,Not Participating ,CO,181.000000,82.400000,73.400000,88.900000,2012
 RotavirusVaccinationPoverty,Living At or Above Poverty,WA,187.000000,71.800000,61.600000,80.200000,2014
+RotavirusVaccinationAge,19-35 Months,US,19144.000000,67.300000,66.000000,68.500000,2011
 RotavirusVaccinationFacilityType,Other,DE,48.000000,76.100000,57.000000,88.500000,2015
 RotavirusVaccinationAge,19-35 Months,CO,266.000000,73.500000,65.100000,80.400000,2012
 RotavirusVaccinationVFCProgramProvider,Participating,MS,193.000000,75.100000,66.800000,81.900000,2017
@@ -258,9 +266,11 @@ RotavirusVaccinationFacilityType,Private,GA,204.000000,69.700000,60.400000,77.60
 RotavirusVaccinationAge,19 Months,IL,762.000000,63.500000,57.800000,68.900000,2011
 RotavirusVaccinationAge,19 Months,UT,263.000000,75.600000,67.900000,82.000000,2014
 RotavirusVaccinationWIC,Participating,TX,990.000000,73.800000,69.000000,78.100000,2015
+RotavirusVaccinationAge,7 Months,US,19144.000000,67.300000,66.000000,68.500000,2011
 RotavirusVaccinationVFCProgramProvider,Participating,GA,217.000000,70.000000,61.000000,77.700000,2012
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,UT,133.000000,79.000000,67.600000,87.200000,2014
 RotavirusVaccinationWIC,Participating,SC,149.000000,68.200000,58.200000,76.700000,2015
+RotavirusVaccinationVFCProgramProvider,Not Participating ,US,1582.000000,71.200000,67.000000,75.100000,2012
 RotavirusVaccinationFacilityType,Mixed,CO,38.000000,79.300000,58.200000,91.300000,2017
 RotavirusVaccinationUrbanicity,Living In A Non MSA,MN,45.000000,67.400000,46.700000,83.000000,2014
 RotavirusVaccinationPoverty,Living Below Poverty,HI,53.000000,59.600000,43.500000,73.800000,2016
@@ -422,6 +432,7 @@ RotavirusVaccinationAge,7 Months,AL,249.000000,50.800000,42.500000,59.200000,200
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,TN,78.000000,72.700000,56.400000,84.600000,2014
 RotavirusVaccinationFacilityType,Other,IL,102.000000,73.800000,63.300000,82.200000,2015
 RotavirusVaccinationFacilityType,Other,MS,44.000000,69.100000,41.700000,87.500000,2011
+RotavirusVaccinationVFCProgramProvider,Participating,US,15494.000000,68.000000,66.600000,69.400000,2011
 RotavirusVaccinationWIC,Not Participating ,RI,112.000000,88.000000,80.300000,93.000000,2014
 RotavirusVaccinationFacilityType,Public,ME,39.000000,40.300000,24.100000,59.000000,2009
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,SD,178.000000,41.300000,33.500000,49.600000,2009
@@ -509,6 +520,7 @@ RotavirusVaccinationVFCProgramProvider,Not Participating ,NY,41.000000,85.600000
 RotavirusVaccinationAge,19-35 Months,UT,289.000000,43.600000,36.300000,51.100000,2009
 RotavirusVaccinationUrbanicity,Living In A Non MSA,SD,175.000000,39.900000,31.500000,48.900000,2010
 RotavirusVaccinationAge,7 Months,NY,586.000000,60.700000,55.500000,65.600000,2011
+RotavirusVaccinationPoverty,Living Below Poverty,US,3777.000000,62.800000,59.600000,65.900000,2014
 RotavirusVaccinationRaceEthnicity,Hispanic,AR,33.000000,48.000000,28.300000,68.300000,2015
 RotavirusVaccinationAge,19-35 Months,MA,241.000000,84.000000,76.700000,89.300000,2013
 RotavirusVaccinationFacilityType,Other,AR,39.000000,55.900000,35.600000,74.400000,2014
@@ -563,6 +575,7 @@ RotavirusVaccinationVFCProgramProvider,Participating,TX,1404.000000,73.400000,69
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,WV,103.000000,64.200000,50.400000,76.000000,2014
 RotavirusVaccinationAge,24 Months,TN,260.000000,73.300000,65.500000,79.900000,2013
 RotavirusVaccinationAge,19-35 Months,FL,228.000000,66.000000,57.500000,73.600000,2013
+RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,US,577.000000,62.600000,55.400000,69.300000,2010
 RotavirusVaccinationVFCProgramProvider,Participating,WA,271.000000,80.500000,73.700000,86.000000,2016
 RotavirusVaccinationFacilityType,Private,WA,177.000000,68.600000,59.000000,76.900000,2011
 RotavirusVaccinationWIC,Participating,AL,219.000000,70.100000,62.000000,77.100000,2011
@@ -590,11 +603,13 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,SC,145.000000,75.2000
 RotavirusVaccinationFacilityType,Mixed,SD,57.000000,50.900000,31.200000,70.300000,2011
 RotavirusVaccinationPoverty,Living At or Above Poverty,MI,209.000000,57.800000,49.300000,65.800000,2010
 RotavirusVaccinationFacilityType,Mixed,NE,55.000000,84.400000,69.600000,92.700000,2014
+RotavirusVaccinationUrbanicity,Living In An MSA Central City,US,7012.000000,68.800000,66.600000,71.000000,2012
 RotavirusVaccinationPoverty,Living At or Above Poverty,TX,784.000000,53.100000,46.500000,59.500000,2009
 RotavirusVaccinationWIC,Not Participating ,OK,96.000000,70.200000,57.200000,80.600000,2012
 RotavirusVaccinationWIC,Participating,IN,177.000000,58.600000,49.100000,67.500000,2011
 RotavirusVaccinationVFCProgramProvider,Not Participating ,KY,69.000000,51.600000,38.000000,64.900000,2009
 RotavirusVaccinationPoverty,Living At or Above Poverty,NM,173.000000,76.600000,67.700000,83.700000,2012
+RotavirusVaccinationUrbanicity,Living In A Non MSA,US,4149.000000,62.700000,60.000000,65.400000,2011
 RotavirusVaccinationWIC,Participating,MD,103.000000,66.100000,54.700000,75.900000,2012
 RotavirusVaccinationAge,7 Months,MD,657.000000,66.000000,59.800000,71.700000,2011
 RotavirusVaccinationAge,19-35 Months,ME,271.000000,75.600000,69.200000,81.000000,2017
@@ -616,6 +631,7 @@ RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,IL,251.000000,62
 RotavirusVaccinationPoverty,Living At or Above Poverty,NE,192.000000,82.400000,73.900000,88.500000,2014
 RotavirusVaccinationRaceEthnicity,Hispanic,VA,30.000000,73.800000,48.200000,89.500000,2012
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,CA,168.000000,68.400000,53.300000,80.500000,2017
+RotavirusVaccinationWIC,Participating,US,6410.000000,69.100000,66.700000,71.300000,2016
 RotavirusVaccinationPoverty,Living At or Above Poverty,LA,181.000000,79.400000,71.200000,85.700000,2017
 RotavirusVaccinationAge,24 Months,MA,241.000000,84.000000,76.700000,89.300000,2013
 RotavirusVaccinationUrbanicity,Living In A Non MSA,ID,92.000000,37.100000,26.400000,49.400000,2010
@@ -663,6 +679,7 @@ RotavirusVaccinationAge,24 Months,CT,386.000000,69.600000,63.300000,75.200000,20
 RotavirusVaccinationAge,19 Months,AZ,265.000000,70.600000,63.200000,77.000000,2017
 RotavirusVaccinationFacilityType,Public,SD,48.000000,54.200000,37.400000,70.100000,2015
 RotavirusVaccinationWIC,Participating,KS,81.000000,53.600000,40.700000,66.100000,2010
+RotavirusVaccinationFacilityType,Mixed,US,2690.000000,67.700000,64.300000,70.800000,2012
 RotavirusVaccinationAge,7 Months,MD,372.000000,82.700000,76.500000,87.600000,2016
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,IA,77.000000,73.700000,60.900000,83.400000,2010
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,WA,128.000000,73.600000,63.100000,81.900000,2012
@@ -726,6 +743,7 @@ RotavirusVaccinationAge,19-35 Months,CT,281.000000,72.500000,65.600000,78.400000
 RotavirusVaccinationAge,7 Months,KY,229.000000,80.400000,73.500000,85.800000,2017
 RotavirusVaccinationAge,19-35 Months,WY,250.000000,68.200000,61.200000,74.600000,2016
 RotavirusVaccinationAge,24 Months,GA,286.000000,73.800000,66.200000,80.100000,2015
+RotavirusVaccinationPoverty,Unknown poverty,US,396.000000,75.200000,66.700000,82.100000,2013
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,WV,61.000000,72.000000,57.800000,82.900000,2016
 RotavirusVaccinationFacilityType,Public,KS,38.000000,74.800000,57.200000,86.800000,2016
 RotavirusVaccinationPoverty,Living At or Above Poverty,KY,198.000000,64.300000,56.700000,71.200000,2010
@@ -748,6 +766,7 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,CA,98.000000,78.70000
 RotavirusVaccinationUrbanicity,Living In A Non MSA,MT,142.000000,57.400000,46.200000,67.900000,2013
 RotavirusVaccinationFacilityType,Other,NM,79.000000,76.100000,62.200000,86.000000,2011
 RotavirusVaccinationWIC,Not Participating ,OH,158.000000,73.900000,63.800000,82.000000,2012
+RotavirusVaccinationFacilityType,Private,US,9909.000000,62.300000,60.600000,64.000000,2010
 RotavirusVaccinationAge,24 Months,VA,274.000000,76.200000,65.800000,84.200000,2013
 RotavirusVaccinationFacilityType,Mixed,MS,47.000000,64.500000,46.200000,79.400000,2014
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,DE,41.000000,64.500000,45.100000,80.100000,2011
@@ -810,7 +829,9 @@ RotavirusVaccinationAge,19-35 Months,NM,233.000000,76.400000,68.900000,82.600000
 RotavirusVaccinationFacilityType,Private,MI,106.000000,82.000000,71.300000,89.300000,2016
 RotavirusVaccinationAge,19-35 Months,NJ,262.000000,66.200000,58.400000,73.200000,2014
 RotavirusVaccinationVFCProgramProvider,Participating,AR,285.000000,47.900000,40.500000,55.400000,2010
+RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,US,10771.000000,46.400000,44.800000,48.000000,2009
 RotavirusVaccinationUrbanicity,Living In A Non MSA,NM,127.000000,44.000000,33.400000,55.300000,2009
+RotavirusVaccinationUrbanicity,Living In A Non MSA,US,3801.000000,35.600000,33.100000,38.100000,2009
 RotavirusVaccinationPoverty,Living Below Poverty,ID,48.000000,75.800000,60.000000,86.800000,2016
 RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,OK,31.000000,63.000000,40.000000,81.400000,2012
 RotavirusVaccinationFacilityType,Other,WA,38.000000,64.300000,42.100000,81.600000,2014
@@ -832,6 +853,7 @@ RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,WA,33.000000,71.0
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,WY,200.000000,55.300000,46.800000,63.500000,2010
 RotavirusVaccinationFacilityType,Private,VA,289.000000,74.200000,65.400000,81.400000,2011
 RotavirusVaccinationAge,24 Months,KS,228.000000,77.000000,70.100000,82.700000,2015
+RotavirusVaccinationFacilityType,Other,US,2436.000000,56.400000,52.700000,60.000000,2010
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,LA,114.000000,75.600000,65.900000,83.300000,2013
 RotavirusVaccinationFacilityType,Mixed,MI,48.000000,33.700000,18.900000,52.700000,2009
 RotavirusVaccinationAge,24 Months,NC,287.000000,70.500000,62.300000,77.500000,2011
@@ -943,6 +965,7 @@ RotavirusVaccinationUrbanicity,Living In A Non MSA,NC,65.000000,66.200000,50.700
 RotavirusVaccinationAge,7 Months,PA,543.000000,74.400000,67.000000,80.700000,2017
 RotavirusVaccinationVFCProgramProvider,Participating,MI,335.000000,66.900000,58.800000,74.200000,2011
 RotavirusVaccinationPoverty,Living At or Above Poverty,ME,192.000000,68.100000,59.400000,75.700000,2012
+RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,US,8929.000000,76.600000,74.900000,78.200000,2017
 RotavirusVaccinationWIC,Participating,OR,107.000000,65.400000,54.200000,75.100000,2017
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,AZ,150.000000,44.800000,35.200000,54.800000,2009
 RotavirusVaccinationUrbanicity,Living In A Non MSA,DE,33.000000,81.700000,61.900000,92.400000,2012
@@ -1102,6 +1125,7 @@ RotavirusVaccinationVFCProgramProvider,Not Participating ,NY,34.000000,81.000000
 RotavirusVaccinationWIC,Participating,MN,103.000000,44.800000,34.700000,55.400000,2009
 RotavirusVaccinationFacilityType,Public,ND,36.000000,51.000000,33.800000,68.000000,2010
 RotavirusVaccinationAge,7 Months,NY,454.000000,48.500000,43.000000,53.900000,2010
+RotavirusVaccinationPoverty,Living Below Poverty,US,3526.000000,64.300000,61.300000,67.200000,2013
 RotavirusVaccinationAge,7 Months,GA,274.000000,79.100000,70.900000,85.500000,2016
 RotavirusVaccinationRaceEthnicity,Hispanic,AR,36.000000,67.700000,46.000000,83.800000,2014
 RotavirusVaccinationAge,19-35 Months,MA,237.000000,80.300000,72.900000,86.100000,2014
@@ -1158,6 +1182,7 @@ RotavirusVaccinationUrbanicity,Living In An MSA Central City,UT,89.000000,79.600
 RotavirusVaccinationFacilityType,Private,OH,170.000000,74.200000,64.900000,81.700000,2012
 RotavirusVaccinationPoverty,Living Below Poverty,DE,38.000000,55.000000,37.000000,71.800000,2009
 RotavirusVaccinationWIC,Participating,AZ,142.000000,56.900000,47.400000,65.900000,2010
+RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,US,679.000000,66.900000,60.500000,72.700000,2011
 RotavirusVaccinationUrbanicity,Living In A Non MSA,OH,59.000000,71.000000,53.600000,83.800000,2011
 RotavirusVaccinationFacilityType,Private,WA,201.000000,53.700000,45.200000,62.100000,2010
 RotavirusVaccinationWIC,Participating,UT,101.000000,70.500000,57.600000,80.800000,2011
@@ -1217,6 +1242,7 @@ RotavirusVaccinationPoverty,Living At or Above Poverty,NE,189.000000,74.800000,6
 RotavirusVaccinationUrbanicity,Living In A Non MSA,KS,78.000000,65.900000,51.000000,78.300000,2017
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,CA,160.000000,75.100000,62.800000,84.300000,2016
 RotavirusVaccinationAge,19-35 Months,DC,369.000000,62.100000,54.900000,68.800000,2011
+RotavirusVaccinationWIC,Participating,US,6392.000000,68.600000,66.200000,71.000000,2017
 RotavirusVaccinationFacilityType,Public,AK,66.000000,39.400000,27.600000,52.500000,2010
 RotavirusVaccinationVFCProgramProvider,Participating,LA,217.000000,72.300000,63.900000,79.400000,2017
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,MA,66.000000,69.600000,55.500000,80.800000,2010
@@ -1226,6 +1252,7 @@ RotavirusVaccinationWIC,Not Participating ,AZ,177.000000,34.600000,27.200000,43.
 RotavirusVaccinationWIC,Not Participating ,AK,160.000000,72.600000,64.300000,79.600000,2017
 RotavirusVaccinationAge,19-35 Months,IN,239.000000,75.600000,68.700000,81.400000,2016
 RotavirusVaccinationUrbanicity,Living In A Non MSA,SC,30.000000,69.000000,45.400000,85.600000,2013
+RotavirusVaccinationRaceEthnicity,Native Hawaiian or other Pacific Islander only  non-Hispanic,US,58.000000,75.500000,57.700000,87.500000,2013
 RotavirusVaccinationFacilityType,Mixed,CO,51.000000,69.000000,50.300000,83.100000,2012
 RotavirusVaccinationRaceEthnicity,Hispanic,WA,41.000000,83.800000,65.800000,93.300000,2014
 RotavirusVaccinationFacilityType,Other,NH,91.000000,77.400000,64.600000,86.500000,2016
@@ -1291,6 +1318,7 @@ RotavirusVaccinationFacilityType,Public,DC,34.000000,64.700000,44.800000,80.5000
 RotavirusVaccinationVFCProgramProvider,Participating,WI,156.000000,81.800000,73.200000,88.000000,2016
 RotavirusVaccinationFacilityType,Mixed,DC,48.000000,81.900000,65.400000,91.500000,2017
 RotavirusVaccinationVFCProgramProvider,Participating,RI,200.000000,85.800000,78.500000,90.900000,2013
+RotavirusVaccinationWIC,Not Participating ,US,9844.000000,64.100000,62.300000,65.800000,2010
 RotavirusVaccinationAge,24 Months,VT,257.000000,64.200000,57.300000,70.500000,2012
 RotavirusVaccinationAge,19-35 Months,WY,289.000000,52.200000,43.100000,61.300000,2011
 RotavirusVaccinationPoverty,Living At or Above Poverty,DE,156.000000,87.200000,79.200000,92.400000,2016
@@ -1326,6 +1354,7 @@ RotavirusVaccinationFacilityType,Public,OK,35.000000,58.100000,37.800000,76.0000
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,KY,69.000000,69.600000,56.900000,79.900000,2010
 RotavirusVaccinationAge,19-35 Months,CT,386.000000,69.600000,63.300000,75.200000,2011
 RotavirusVaccinationFacilityType,Mixed,TN,39.000000,63.300000,43.900000,79.200000,2010
+RotavirusVaccinationPoverty,Unknown poverty,US,631.000000,60.100000,53.800000,66.100000,2010
 RotavirusVaccinationFacilityType,Other,WA,55.000000,58.300000,40.000000,74.500000,2017
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,WV,89.000000,81.100000,69.100000,89.200000,2017
 RotavirusVaccinationFacilityType,Mixed,OH,46.000000,60.500000,37.100000,79.900000,2012
@@ -1427,9 +1456,11 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,UT,202.000000,78.6000
 RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,NV,33.000000,50.300000,31.200000,69.200000,2013
 RotavirusVaccinationRaceEthnicity,Hispanic,IA,36.000000,76.100000,55.400000,89.100000,2012
 RotavirusVaccinationAge,19-35 Months,SD,254.000000,55.300000,45.100000,65.100000,2011
+RotavirusVaccinationPoverty,Living At or Above Poverty,US,9689.000000,76.900000,75.300000,78.500000,2013
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,WY,160.000000,64.300000,54.900000,72.600000,2013
 RotavirusVaccinationWIC,Not Participating ,WI,205.000000,81.000000,73.100000,87.000000,2011
 RotavirusVaccinationAge,24 Months,KS,297.000000,59.900000,52.800000,66.600000,2012
+RotavirusVaccinationFacilityType,Other,US,2843.000000,64.500000,60.900000,68.000000,2011
 RotavirusVaccinationWIC,Participating,IN,141.000000,74.700000,64.600000,82.800000,2017
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,LA,141.000000,73.000000,61.600000,82.000000,2014
 RotavirusVaccinationFacilityType,Public,IL,70.000000,71.200000,57.500000,81.800000,2015
@@ -1440,10 +1471,12 @@ RotavirusVaccinationRaceEthnicity,Hispanic,TN,41.000000,88.300000,74.800000,95.0
 RotavirusVaccinationPoverty,Living At or Above Poverty,WA,186.000000,74.000000,65.900000,80.800000,2012
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MD,217.000000,67.400000,55.500000,77.500000,2017
 RotavirusVaccinationFacilityType,Other,OK,34.000000,75.500000,57.600000,87.500000,2016
+RotavirusVaccinationAge,19-35 Months,US,17053.000000,43.900000,42.600000,45.300000,2009
 RotavirusVaccinationFacilityType,Other,DE,57.000000,92.400000,83.300000,96.700000,2013
 RotavirusVaccinationAge,19-35 Months,GA,306.000000,59.000000,52.000000,65.600000,2010
 RotavirusVaccinationAge,19-35 Months,CO,320.000000,73.400000,66.600000,79.300000,2014
 RotavirusVaccinationAge,19-35 Months,MN,279.000000,79.800000,72.800000,85.300000,2016
+RotavirusVaccinationAge,19 Months,US,15333.000000,73.200000,71.600000,74.700000,2017
 RotavirusVaccinationUrbanicity,Living In A Non MSA,AK,85.000000,61.100000,49.000000,72.000000,2016
 RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,GU,52.000000,60.100000,45.400000,73.200000,2017
 RotavirusVaccinationVFCProgramProvider,Not Participating ,MD,60.000000,80.900000,58.000000,92.800000,2017
@@ -1519,6 +1552,7 @@ RotavirusVaccinationRaceEthnicity,Hispanic,FL,64.000000,87.000000,75.400000,93.6
 RotavirusVaccinationAge,19-35 Months,KY,220.000000,64.400000,55.500000,72.300000,2014
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,PA,103.000000,75.000000,62.400000,84.500000,2011
 RotavirusVaccinationAge,24 Months,IA,298.000000,78.500000,72.800000,83.300000,2016
+RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,US,894.000000,72.800000,67.300000,77.700000,2013
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,OH,41.000000,60.000000,41.600000,76.000000,2017
 RotavirusVaccinationFacilityType,Other,MO,58.000000,61.200000,45.100000,75.200000,2011
 RotavirusVaccinationAge,19 Months,LA,270.000000,68.400000,59.900000,75.800000,2014
@@ -1565,6 +1599,7 @@ RotavirusVaccinationPoverty,Living At or Above Poverty,IA,240.000000,81.800000,7
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,WI,83.000000,75.400000,60.800000,85.800000,2014
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,WA,174.000000,68.700000,59.000000,77.100000,2015
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,KY,165.000000,59.900000,49.600000,69.400000,2014
+RotavirusVaccinationFacilityType,Private,US,8127.000000,76.800000,74.800000,78.700000,2014
 RotavirusVaccinationPoverty,Living At or Above Poverty,AK,208.000000,75.000000,67.900000,81.000000,2017
 RotavirusVaccinationFacilityType,Public,MS,73.000000,40.100000,28.500000,52.900000,2010
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MS,127.000000,77.500000,67.700000,85.000000,2016
@@ -1603,6 +1638,7 @@ RotavirusVaccinationWIC,Participating,HI,105.000000,73.900000,63.000000,82.40000
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,ND,209.000000,78.100000,67.500000,86.000000,2011
 RotavirusVaccinationWIC,Not Participating ,NC,185.000000,72.200000,63.900000,79.200000,2010
 RotavirusVaccinationPoverty,Living Below Poverty,IA,55.000000,67.200000,50.900000,80.300000,2012
+RotavirusVaccinationFacilityType,Private,US,8504.000000,77.300000,75.500000,79.000000,2015
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,MD,56.000000,40.100000,27.100000,54.500000,2010
 RotavirusVaccinationWIC,Participating,NH,75.000000,72.800000,58.500000,83.600000,2013
 RotavirusVaccinationAge,24 Months,CA,407.000000,71.100000,64.900000,76.500000,2011
@@ -1654,6 +1690,7 @@ RotavirusVaccinationFacilityType,Other,MN,81.000000,70.700000,55.200000,82.50000
 RotavirusVaccinationWIC,Not Participating ,MA,228.000000,79.400000,72.100000,85.300000,2011
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,AZ,175.000000,61.000000,52.000000,69.200000,2010
 RotavirusVaccinationFacilityType,Public,VT,43.000000,86.600000,72.400000,94.000000,2014
+RotavirusVaccinationUrbanicity,Living In A Non MSA,US,3722.000000,62.500000,59.600000,65.300000,2012
 RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,HI,48.000000,85.500000,71.300000,93.300000,2016
 RotavirusVaccinationVFCProgramProvider,Participating,VT,222.000000,52.700000,45.400000,59.900000,2010
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,CO,124.000000,80.100000,70.800000,87.000000,2015
@@ -1699,6 +1736,7 @@ RotavirusVaccinationWIC,Not Participating ,MO,129.000000,77.900000,68.400000,85.
 RotavirusVaccinationAge,19-35 Months,UT,353.000000,68.100000,60.900000,74.500000,2011
 RotavirusVaccinationFacilityType,Public,ND,45.000000,49.000000,28.900000,69.400000,2011
 RotavirusVaccinationAge,7 Months,NY,468.000000,73.800000,68.700000,78.400000,2013
+RotavirusVaccinationPoverty,Living Below Poverty,US,4469.000000,63.000000,60.400000,65.500000,2012
 RotavirusVaccinationAge,7 Months,GA,299.000000,71.200000,63.600000,77.800000,2017
 RotavirusVaccinationAge,19-35 Months,MA,307.000000,83.500000,77.400000,88.300000,2015
 RotavirusVaccinationFacilityType,Other,AR,30.000000,50.100000,28.400000,71.800000,2012
@@ -1706,6 +1744,7 @@ RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,MS,118.000000,56.6000
 RotavirusVaccinationVFCProgramProvider,Participating,CT,208.000000,47.400000,37.500000,57.500000,2009
 RotavirusVaccinationVFCProgramProvider,Participating,ME,197.000000,72.600000,64.800000,79.200000,2013
 RotavirusVaccinationFacilityType,Private,MO,102.000000,82.200000,70.800000,89.700000,2017
+RotavirusVaccinationVFCProgramProvider,Participating,US,11341.000000,73.500000,71.900000,75.000000,2013
 RotavirusVaccinationWIC,Not Participating ,WA,183.000000,72.400000,63.200000,80.100000,2011
 RotavirusVaccinationFacilityType,Other,NY,77.000000,77.800000,64.300000,87.200000,2015
 RotavirusVaccinationVFCProgramProvider,Participating,NY,467.000000,61.200000,55.400000,66.700000,2011
@@ -1752,6 +1791,7 @@ RotavirusVaccinationVFCProgramProvider,Participating,TX,928.000000,76.900000,71.
 RotavirusVaccinationAge,19-35 Months,FL,273.000000,63.800000,56.100000,70.900000,2015
 RotavirusVaccinationPoverty,Living Below Poverty,DE,82.000000,82.300000,69.300000,90.600000,2014
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,IA,65.000000,74.400000,58.400000,85.700000,2017
+RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,US,633.000000,69.900000,62.300000,76.500000,2012
 RotavirusVaccinationFacilityType,Private,NH,71.000000,86.900000,74.100000,93.900000,2017
 RotavirusVaccinationUrbanicity,Living In A Non MSA,OH,43.000000,50.700000,33.300000,67.900000,2010
 RotavirusVaccinationFacilityType,Private,WA,240.000000,21.600000,15.700000,28.900000,2009
@@ -1847,6 +1887,7 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MT,171.000000,70.3000
 RotavirusVaccinationPoverty,Living At or Above Poverty,DC,206.000000,69.200000,60.200000,77.000000,2014
 RotavirusVaccinationFacilityType,Other,ME,63.000000,25.300000,15.200000,39.100000,2009
 RotavirusVaccinationWIC,Not Participating ,MD,207.000000,75.600000,65.600000,83.400000,2012
+RotavirusVaccinationFacilityType,Private,US,8318.000000,77.000000,74.800000,79.000000,2017
 RotavirusVaccinationWIC,Not Participating ,LA,120.000000,75.700000,63.600000,84.700000,2012
 RotavirusVaccinationPoverty,Living At or Above Poverty,PA,406.000000,68.900000,62.500000,74.600000,2010
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,ID,71.000000,70.200000,57.700000,80.300000,2015
@@ -1874,6 +1915,7 @@ RotavirusVaccinationAge,19 Months,NY,468.000000,73.600000,68.500000,78.200000,20
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,WA,183.000000,74.400000,65.400000,81.700000,2016
 RotavirusVaccinationFacilityType,Other,IN,48.000000,75.200000,54.900000,88.300000,2011
 RotavirusVaccinationAge,19-35 Months,WA,472.000000,20.900000,16.600000,25.900000,2009
+RotavirusVaccinationPoverty,Unknown poverty,US,492.000000,68.300000,59.900000,75.600000,2014
 RotavirusVaccinationFacilityType,Mixed,AL,36.000000,85.900000,67.700000,94.700000,2014
 RotavirusVaccinationVFCProgramProvider,Participating,AK,182.000000,32.100000,25.100000,40.100000,2009
 RotavirusVaccinationFacilityType,Mixed,UT,63.000000,64.400000,47.600000,78.200000,2011
@@ -1912,7 +1954,9 @@ RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,KY,154.000000,50
 RotavirusVaccinationAge,24 Months,SC,269.000000,55.800000,48.100000,63.200000,2011
 RotavirusVaccinationFacilityType,Private,MA,235.000000,83.000000,76.300000,88.100000,2011
 RotavirusVaccinationAge,19-35 Months,CT,247.000000,61.800000,53.800000,69.300000,2010
+RotavirusVaccinationPoverty,Unknown poverty,US,628.000000,67.200000,60.800000,73.000000,2011
 RotavirusVaccinationFacilityType,Mixed,OH,34.000000,54.300000,34.400000,72.900000,2013
+RotavirusVaccinationWIC,Participating,US,7004.000000,39.900000,38.000000,42.000000,2009
 RotavirusVaccinationAge,19 Months,ME,271.000000,75.600000,69.200000,81.000000,2017
 RotavirusVaccinationAge,7 Months,NM,282.000000,78.400000,72.000000,83.600000,2012
 RotavirusVaccinationAge,7 Months,LA,282.000000,72.400000,64.900000,78.800000,2017
@@ -1987,9 +2031,11 @@ RotavirusVaccinationPoverty,Living At or Above Poverty,AK,209.000000,69.900000,6
 RotavirusVaccinationWIC,Not Participating ,AR,105.000000,66.900000,53.600000,78.000000,2012
 RotavirusVaccinationWIC,Participating,MA,69.000000,78.700000,63.000000,88.900000,2016
 RotavirusVaccinationAge,24 Months,KY,241.000000,65.300000,57.900000,72.100000,2015
+RotavirusVaccinationFacilityType,Mixed,US,2174.000000,73.300000,69.200000,77.100000,2016
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,ND,87.000000,76.900000,63.100000,86.600000,2014
 RotavirusVaccinationAge,19-35 Months,NJ,285.000000,68.000000,61.100000,74.200000,2012
 RotavirusVaccinationFacilityType,Private,NM,96.000000,75.000000,62.600000,84.300000,2017
+RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,US,11812.000000,68.300000,66.700000,69.800000,2011
 RotavirusVaccinationPoverty,Living Below Poverty,UT,42.000000,50.100000,31.500000,68.600000,2009
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,VA,162.000000,78.100000,63.100000,88.100000,2016
 RotavirusVaccinationFacilityType,Other,ID,40.000000,60.200000,38.600000,78.400000,2011
@@ -2020,10 +2066,12 @@ RotavirusVaccinationFacilityType,Mixed,MI,46.000000,59.400000,40.600000,75.80000
 RotavirusVaccinationFacilityType,Private,CO,154.000000,82.000000,71.800000,89.100000,2012
 RotavirusVaccinationAge,19 Months,RI,249.000000,85.100000,78.800000,89.700000,2017
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,ME,206.000000,77.200000,69.600000,83.400000,2014
+RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,US,239.000000,55.800000,42.900000,68.000000,2013
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MI,193.000000,60.900000,49.700000,71.000000,2011
 RotavirusVaccinationAge,19 Months,WY,250.000000,68.200000,61.200000,74.600000,2016
 RotavirusVaccinationRaceEthnicity,Hispanic,WY,31.000000,74.200000,53.200000,87.900000,2015
 RotavirusVaccinationFacilityType,Other,OK,40.000000,61.200000,42.700000,76.900000,2017
+RotavirusVaccinationAge,19-35 Months,US,14893.000000,71.700000,70.100000,73.200000,2014
 RotavirusVaccinationFacilityType,Other,DE,51.000000,70.800000,53.400000,83.700000,2012
 RotavirusVaccinationAge,19-35 Months,GA,359.000000,66.000000,59.100000,72.300000,2011
 RotavirusVaccinationAge,19-35 Months,CO,246.000000,75.900000,68.700000,81.800000,2015
@@ -2055,6 +2103,7 @@ RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,UT,141.000000,44
 RotavirusVaccinationWIC,Participating,SC,139.000000,57.800000,48.400000,66.600000,2010
 RotavirusVaccinationFacilityType,Other,WA,47.000000,66.200000,48.000000,80.600000,2012
 RotavirusVaccinationAge,7 Months,HI,266.000000,70.600000,63.700000,76.600000,2012
+RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,US,876.000000,57.700000,51.100000,64.000000,2010
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MD,229.000000,75.000000,67.100000,81.400000,2011
 RotavirusVaccinationFacilityType,Mixed,PA,75.000000,62.500000,43.700000,78.100000,2015
 RotavirusVaccinationVFCProgramProvider,Not Participating ,VA,129.000000,74.700000,55.600000,87.400000,2016
@@ -2078,6 +2127,7 @@ RotavirusVaccinationAge,24 Months,LA,307.000000,68.900000,61.600000,75.400000,20
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,HI,76.000000,35.200000,23.900000,48.400000,2009
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,NY,171.000000,68.300000,60.000000,75.600000,2012
 RotavirusVaccinationAge,24 Months,ME,221.000000,71.100000,62.900000,78.100000,2015
+RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,US,1032.000000,67.800000,61.800000,73.200000,2011
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,OR,155.000000,68.100000,58.100000,76.700000,2012
 RotavirusVaccinationFacilityType,Public,TX,108.000000,52.500000,38.200000,66.400000,2012
 RotavirusVaccinationPoverty,Living Below Poverty,TX,471.000000,71.900000,65.700000,77.400000,2017
@@ -2085,6 +2135,7 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MI,191.000000,62.3000
 RotavirusVaccinationFacilityType,Mixed,KS,90.000000,61.400000,49.100000,72.400000,2012
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,VA,266.000000,69.500000,61.400000,76.600000,2010
 RotavirusVaccinationPoverty,Living Below Poverty,MN,45.000000,56.700000,38.000000,73.700000,2012
+RotavirusVaccinationUrbanicity,Living In An MSA Central City,US,7181.000000,44.600000,42.400000,46.900000,2009
 RotavirusVaccinationFacilityType,Mixed,TX,162.000000,86.300000,75.900000,92.600000,2016
 RotavirusVaccinationWIC,Not Participating ,VA,308.000000,78.000000,67.200000,85.900000,2016
 RotavirusVaccinationVFCProgramProvider,Not Participating ,GA,42.000000,86.600000,61.700000,96.300000,2015
@@ -2182,6 +2233,7 @@ RotavirusVaccinationAge,19-35 Months,AZ,254.000000,70.900000,62.900000,77.800000
 RotavirusVaccinationVFCProgramProvider,Not Participating ,MI,38.000000,54.400000,34.500000,72.900000,2009
 RotavirusVaccinationFacilityType,Public,CA,32.000000,63.400000,43.900000,79.200000,2012
 RotavirusVaccinationFacilityType,Private,MO,112.000000,84.300000,73.400000,91.300000,2015
+RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,US,5582.000000,75.100000,73.000000,77.200000,2015
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,MD,254.000000,57.600000,47.000000,67.600000,2011
 RotavirusVaccinationWIC,Participating,NH,50.000000,61.100000,44.200000,75.800000,2010
 RotavirusVaccinationUrbanicity,Living In A Non MSA,MO,94.000000,33.700000,21.700000,48.300000,2009
@@ -2203,8 +2255,10 @@ RotavirusVaccinationFacilityType,Other,MT,64.000000,42.700000,29.200000,57.40000
 RotavirusVaccinationAge,19-35 Months,NC,310.000000,69.600000,63.100000,75.400000,2010
 RotavirusVaccinationAge,7 Months,AL,336.000000,63.400000,57.000000,69.200000,2010
 RotavirusVaccinationFacilityType,Other,IL,92.000000,84.400000,73.000000,91.500000,2016
+RotavirusVaccinationVFCProgramProvider,Participating,US,12438.000000,72.600000,70.900000,74.200000,2014
 RotavirusVaccinationPoverty,Living Below Poverty,SC,78.000000,63.100000,50.500000,74.200000,2016
 RotavirusVaccinationWIC,Not Participating ,RI,245.000000,84.300000,77.400000,89.300000,2011
+RotavirusVaccinationRaceEthnicity,Hispanic,US,2914.000000,43.700000,40.500000,46.900000,2009
 RotavirusVaccinationAge,24 Months,ID,233.000000,74.600000,67.600000,80.400000,2013
 RotavirusVaccinationPoverty,Living At or Above Poverty,LA,149.000000,69.200000,59.900000,77.100000,2010
 RotavirusVaccinationPoverty,Living Below Poverty,SD,52.000000,73.000000,56.900000,84.800000,2015
@@ -2214,6 +2268,7 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,TN,159.000000,76.4000
 RotavirusVaccinationVFCProgramProvider,Participating,MN,240.000000,52.200000,45.100000,59.200000,2009
 RotavirusVaccinationAge,19 Months,KY,220.000000,64.400000,55.500000,72.300000,2014
 RotavirusVaccinationUrbanicity,Living In A Non MSA,WI,59.000000,75.500000,60.700000,85.900000,2013
+RotavirusVaccinationAge,24 Months,US,16687.000000,68.600000,67.200000,69.900000,2012
 RotavirusVaccinationFacilityType,Public,LA,36.000000,50.200000,31.600000,68.800000,2011
 RotavirusVaccinationPoverty,Living At or Above Poverty,MS,129.000000,65.600000,53.400000,76.000000,2015
 RotavirusVaccinationWIC,Not Participating ,MI,164.000000,53.100000,43.700000,62.200000,2010
@@ -2320,8 +2375,10 @@ RotavirusVaccinationRaceEthnicity,Hispanic,PR,293.000000,59.800000,52.700000,66.
 RotavirusVaccinationAge,19-35 Months,NJ,268.000000,76.400000,69.300000,82.200000,2016
 RotavirusVaccinationPoverty,Living Below Poverty,DE,64.000000,85.200000,73.700000,92.200000,2015
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,IA,72.000000,79.600000,68.100000,87.800000,2016
+RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,US,570.000000,74.900000,67.600000,81.000000,2013
 RotavirusVaccinationAge,24 Months,WV,298.000000,77.400000,71.100000,82.600000,2017
 RotavirusVaccinationFacilityType,Private,NH,83.000000,71.200000,56.500000,82.400000,2016
+RotavirusVaccinationUrbanicity,Living In A Non MSA,US,3134.000000,68.400000,65.300000,71.400000,2014
 RotavirusVaccinationFacilityType,Private,ND,52.000000,73.900000,57.200000,85.700000,2015
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,WA,283.000000,47.000000,39.800000,54.300000,2010
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,SC,52.000000,48.800000,34.000000,63.900000,2011
@@ -2355,6 +2412,7 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MN,218.000000,50.4000
 RotavirusVaccinationAge,19-35 Months,AR,322.000000,62.100000,54.300000,69.300000,2011
 RotavirusVaccinationWIC,Participating,VA,75.000000,50.400000,36.400000,64.300000,2009
 RotavirusVaccinationFacilityType,Private,AL,199.000000,82.100000,74.100000,88.000000,2017
+RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,US,5846.000000,73.300000,70.700000,75.700000,2017
 RotavirusVaccinationPoverty,Living At or Above Poverty,NM,155.000000,70.100000,60.100000,78.500000,2015
 RotavirusVaccinationAge,7 Months,NC,310.000000,69.600000,63.100000,75.400000,2010
 RotavirusVaccinationUrbanicity,Living In A Non MSA,WV,180.000000,56.300000,47.300000,64.900000,2011
@@ -2380,6 +2438,7 @@ RotavirusVaccinationVFCProgramProvider,Participating,WI,211.000000,74.400000,64.
 RotavirusVaccinationAge,19 Months,CT,386.000000,69.600000,63.300000,75.200000,2011
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MA,194.000000,81.600000,73.000000,87.800000,2013
 RotavirusVaccinationUrbanicity,Living In A Non MSA,SC,55.000000,39.500000,25.400000,55.600000,2011
+RotavirusVaccinationRaceEthnicity,Native Hawaiian or other Pacific Islander only  non-Hispanic,US,73.000000,73.700000,57.600000,85.300000,2015
 RotavirusVaccinationVFCProgramProvider,Participating,IL,355.000000,75.900000,70.100000,80.900000,2015
 RotavirusVaccinationAge,19 Months,ND,303.000000,78.400000,72.500000,83.300000,2013
 RotavirusVaccinationAge,19 Months,IN,256.000000,77.600000,70.400000,83.400000,2017
@@ -2476,6 +2535,7 @@ RotavirusVaccinationFacilityType,Public,VT,50.000000,71.400000,55.100000,83.5000
 RotavirusVaccinationAge,24 Months,WY,196.000000,65.700000,57.300000,73.200000,2013
 RotavirusVaccinationFacilityType,Mixed,OH,40.000000,62.300000,43.800000,77.800000,2014
 RotavirusVaccinationFacilityType,Private,AZ,214.000000,42.600000,34.700000,50.900000,2009
+RotavirusVaccinationWIC,Participating,US,6924.000000,55.200000,53.100000,57.200000,2010
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,NM,104.000000,77.100000,66.500000,85.100000,2016
 RotavirusVaccinationAge,7 Months,NM,244.000000,73.800000,66.300000,80.100000,2015
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,IN,132.000000,67.800000,56.900000,77.100000,2014
@@ -2565,10 +2625,13 @@ RotavirusVaccinationAge,19 Months,UT,249.000000,77.000000,70.200000,82.500000,20
 RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,PA,39.000000,77.300000,52.500000,91.300000,2013
 RotavirusVaccinationWIC,Not Participating ,AR,78.000000,76.100000,64.000000,85.100000,2015
 RotavirusVaccinationWIC,Participating,MA,55.000000,74.800000,57.900000,86.600000,2017
+RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,US,8794.000000,77.300000,75.600000,78.800000,2016
 RotavirusVaccinationVFCProgramProvider,Participating,IL,278.000000,73.700000,66.900000,79.600000,2017
 RotavirusVaccinationFacilityType,Mixed,OR,39.000000,65.100000,47.500000,79.400000,2016
+RotavirusVaccinationAge,24 Months,US,14988.000000,74.000000,72.500000,75.500000,2016
 RotavirusVaccinationAge,19-35 Months,NJ,265.000000,69.000000,61.800000,75.500000,2013
 RotavirusVaccinationFacilityType,Public,WV,38.000000,58.700000,38.000000,76.700000,2014
+RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,US,10496.000000,60.200000,58.500000,61.800000,2010
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,SD,34.000000,71.700000,49.900000,86.600000,2014
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,TX,743.000000,71.800000,64.100000,78.500000,2013
 RotavirusVaccinationPoverty,Living Below Poverty,UT,50.000000,59.100000,42.000000,74.300000,2010
@@ -2593,6 +2656,7 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,OH,200.000000,61.7000
 RotavirusVaccinationFacilityType,Mixed,AZ,38.000000,70.900000,51.200000,85.000000,2016
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,WY,171.000000,77.300000,69.100000,83.900000,2015
 RotavirusVaccinationUrbanicity,Living In A Non MSA,OK,85.000000,46.000000,34.300000,58.200000,2010
+RotavirusVaccinationFacilityType,Other,US,2508.000000,44.600000,40.700000,48.500000,2009
 RotavirusVaccinationFacilityType,Public,IL,73.000000,64.900000,50.500000,77.000000,2013
 RotavirusVaccinationAge,24 Months,OK,247.000000,72.500000,64.200000,79.600000,2014
 RotavirusVaccinationFacilityType,Other,ND,93.000000,73.500000,55.100000,86.200000,2011
@@ -2600,10 +2664,12 @@ RotavirusVaccinationFacilityType,Mixed,MI,44.000000,62.600000,42.500000,79.10000
 RotavirusVaccinationFacilityType,Private,CO,139.000000,78.700000,68.700000,86.100000,2015
 RotavirusVaccinationAge,19 Months,RI,239.000000,88.700000,82.800000,92.800000,2016
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,ME,184.000000,73.000000,65.100000,79.800000,2013
+RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,US,290.000000,54.500000,37.800000,70.300000,2012
 RotavirusVaccinationFacilityType,Private,SC,136.000000,74.700000,62.900000,83.800000,2017
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MI,136.000000,50.100000,40.000000,60.200000,2010
 RotavirusVaccinationAge,19 Months,WY,267.000000,78.200000,72.100000,83.300000,2017
 RotavirusVaccinationFacilityType,Other,MO,33.000000,69.100000,45.500000,85.700000,2012
+RotavirusVaccinationAge,19-35 Months,US,15167.000000,73.200000,71.800000,74.600000,2015
 RotavirusVaccinationFacilityType,Other,DE,63.000000,55.500000,39.400000,70.400000,2011
 RotavirusVaccinationAge,19-35 Months,CO,238.000000,70.400000,61.000000,78.300000,2016
 RotavirusVaccinationWIC,Participating,MT,95.000000,66.600000,54.800000,76.600000,2016
@@ -2676,6 +2742,7 @@ RotavirusVaccinationPoverty,Living Below Poverty,SC,89.000000,51.900000,40.30000
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,NM,48.000000,75.800000,60.600000,86.500000,2016
 RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,NM,36.000000,71.600000,47.400000,87.600000,2014
 RotavirusVaccinationFacilityType,Other,MO,39.000000,38.400000,20.400000,60.300000,2009
+RotavirusVaccinationFacilityType,Private,US,9444.000000,73.000000,71.200000,74.700000,2012
 RotavirusVaccinationFacilityType,Private,SD,50.000000,81.800000,65.800000,91.300000,2015
 RotavirusVaccinationAge,24 Months,FL,228.000000,66.000000,57.500000,73.600000,2013
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,OR,77.000000,61.800000,48.700000,73.400000,2012
@@ -2738,6 +2805,7 @@ RotavirusVaccinationFacilityType,Mixed,ME,36.000000,81.500000,62.800000,92.00000
 RotavirusVaccinationFacilityType,Private,KS,93.000000,80.200000,69.100000,88.100000,2015
 RotavirusVaccinationWIC,Not Participating ,CA,209.000000,71.100000,57.000000,82.000000,2017
 RotavirusVaccinationPoverty,Living Below Poverty,MT,37.000000,60.700000,41.500000,77.100000,2017
+RotavirusVaccinationVFCProgramProvider,Not Participating ,US,1492.000000,78.100000,73.300000,82.200000,2016
 RotavirusVaccinationPoverty,Living Below Poverty,TN,99.000000,69.600000,57.900000,79.300000,2011
 RotavirusVaccinationVFCProgramProvider,Participating,KY,178.000000,67.000000,58.100000,74.800000,2016
 RotavirusVaccinationAge,19-35 Months,NY,586.000000,60.700000,55.500000,65.600000,2011
@@ -2752,6 +2820,7 @@ RotavirusVaccinationWIC,Not Participating ,NC,150.000000,75.100000,65.300000,82.
 RotavirusVaccinationWIC,Not Participating ,CT,197.000000,62.500000,53.800000,70.400000,2010
 RotavirusVaccinationWIC,Not Participating ,FL,133.000000,80.500000,68.500000,88.700000,2016
 RotavirusVaccinationFacilityType,Private,MO,127.000000,84.400000,73.600000,91.300000,2014
+RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,US,5396.000000,73.200000,70.600000,75.600000,2014
 RotavirusVaccinationPoverty,Living Below Poverty,VT,47.000000,61.300000,45.600000,75.000000,2017
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,IL,260.000000,84.500000,78.600000,89.000000,2016
 RotavirusVaccinationWIC,Participating,NH,75.000000,74.800000,60.600000,85.100000,2011
@@ -2773,17 +2842,21 @@ RotavirusVaccinationAge,19 Months,SC,238.000000,67.200000,58.500000,74.900000,20
 RotavirusVaccinationAge,19-35 Months,NC,262.000000,41.100000,34.000000,48.600000,2009
 RotavirusVaccinationFacilityType,Mixed,VT,34.000000,71.900000,51.400000,86.100000,2017
 RotavirusVaccinationFacilityType,Mixed,TX,164.000000,86.800000,74.900000,93.500000,2013
+RotavirusVaccinationVFCProgramProvider,Participating,US,12065.000000,74.100000,72.500000,75.500000,2015
 RotavirusVaccinationWIC,Not Participating ,RI,155.000000,78.700000,69.300000,85.800000,2010
+RotavirusVaccinationRaceEthnicity,Hispanic,US,2912.000000,60.500000,57.300000,63.700000,2010
 RotavirusVaccinationAge,24 Months,ID,289.000000,68.200000,60.600000,75.000000,2012
 RotavirusVaccinationPoverty,Living At or Above Poverty,LA,194.000000,76.100000,68.200000,82.500000,2011
 RotavirusVaccinationPoverty,Living Below Poverty,SD,81.000000,48.700000,36.300000,61.200000,2012
 RotavirusVaccinationVFCProgramProvider,Participating,PR,239.000000,62.100000,54.400000,69.200000,2016
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,MA,72.000000,81.500000,61.800000,92.300000,2017
 RotavirusVaccinationWIC,Participating,TX,782.000000,73.800000,69.100000,78.100000,2017
+RotavirusVaccinationAge,7 Months,US,14893.000000,71.700000,70.100000,73.200000,2014
 RotavirusVaccinationAge,19-35 Months,WY,257.000000,69.100000,62.100000,75.400000,2012
 RotavirusVaccinationAge,19 Months,KY,241.000000,65.300000,57.900000,72.100000,2015
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,WY,61.000000,85.600000,72.800000,93.000000,2015
 RotavirusVaccinationUrbanicity,Living In A Non MSA,WI,56.000000,66.400000,49.700000,79.800000,2014
+RotavirusVaccinationAge,24 Months,US,13611.000000,72.600000,71.100000,74.000000,2013
 RotavirusVaccinationPoverty,Living At or Above Poverty,MS,111.000000,73.800000,60.700000,83.700000,2014
 RotavirusVaccinationWIC,Not Participating ,MI,241.000000,65.300000,55.900000,73.600000,2011
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,ME,109.000000,25.000000,17.000000,35.200000,2009
@@ -2840,6 +2913,7 @@ RotavirusVaccinationFacilityType,Other,AR,39.000000,41.500000,22.500000,63.60000
 RotavirusVaccinationVFCProgramProvider,Participating,PA,495.000000,77.900000,71.800000,83.100000,2013
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,VT,228.000000,65.300000,58.100000,71.900000,2012
 RotavirusVaccinationWIC,Not Participating ,FL,171.000000,63.500000,54.000000,72.000000,2011
+RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,US,7929.000000,74.800000,73.100000,76.500000,2013
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,OR,229.000000,33.800000,26.900000,41.500000,2009
 RotavirusVaccinationVFCProgramProvider,Participating,CT,331.000000,72.400000,65.700000,78.200000,2011
 RotavirusVaccinationVFCProgramProvider,Participating,ME,278.000000,61.100000,54.100000,67.600000,2011
@@ -2887,12 +2961,14 @@ RotavirusVaccinationPoverty,Living At or Above Poverty,IN,225.000000,59.900000,5
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,TX,480.000000,80.600000,75.200000,85.100000,2017
 RotavirusVaccinationVFCProgramProvider,Participating,TX,1280.000000,76.400000,72.100000,80.200000,2015
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,WV,95.000000,46.600000,36.100000,57.400000,2010
+RotavirusVaccinationRaceEthnicity,Native Hawaiian or other Pacific Islander only  non-Hispanic,US,69.000000,69.800000,52.900000,82.600000,2017
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,SD,44.000000,71.100000,51.600000,85.000000,2017
 RotavirusVaccinationFacilityType,Other,WA,80.000000,44.400000,32.200000,57.400000,2010
 RotavirusVaccinationAge,19-35 Months,NJ,356.000000,70.200000,63.900000,75.900000,2017
 RotavirusVaccinationPoverty,Living Below Poverty,DE,75.000000,66.600000,53.300000,77.700000,2012
 RotavirusVaccinationAge,19 Months,IN,382.000000,63.900000,57.000000,70.300000,2011
 RotavirusVaccinationFacilityType,Private,MN,88.000000,83.100000,68.400000,91.800000,2014
+RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,US,665.000000,72.400000,65.200000,78.700000,2014
 RotavirusVaccinationRaceEthnicity,Hispanic,MA,30.000000,88.600000,63.500000,97.200000,2010
 RotavirusVaccinationRaceEthnicity,Hispanic,MD,57.000000,74.500000,55.600000,87.200000,2015
 RotavirusVaccinationFacilityType,Private,ND,55.000000,77.100000,57.400000,89.400000,2014
@@ -2927,6 +3003,7 @@ RotavirusVaccinationFacilityType,Mixed,AZ,60.000000,66.700000,50.400000,79.80000
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MN,209.000000,70.500000,62.100000,77.700000,2010
 RotavirusVaccinationAge,19-35 Months,AR,341.000000,48.500000,41.600000,55.400000,2010
 RotavirusVaccinationWIC,Not Participating ,NH,158.000000,82.700000,74.300000,88.800000,2014
+RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,US,5691.000000,74.200000,71.700000,76.600000,2016
 RotavirusVaccinationAge,7 Months,NC,262.000000,41.100000,34.000000,48.600000,2009
 RotavirusVaccinationUrbanicity,Living In A Non MSA,WV,151.000000,53.500000,44.100000,62.800000,2010
 RotavirusVaccinationAge,7 Months,DC,223.000000,68.400000,59.800000,75.900000,2013
@@ -2954,6 +3031,7 @@ RotavirusVaccinationUrbanicity,Living In A Non MSA,KY,150.000000,38.400000,30.40
 RotavirusVaccinationAge,19 Months,AL,272.000000,76.000000,68.400000,82.200000,2015
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MA,205.000000,82.800000,75.100000,88.500000,2012
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MS,186.000000,50.800000,42.400000,59.100000,2009
+RotavirusVaccinationAge,7 Months,US,16687.000000,68.600000,67.200000,69.900000,2012
 RotavirusVaccinationVFCProgramProvider,Participating,IL,422.000000,71.300000,64.400000,77.300000,2014
 RotavirusVaccinationAge,19 Months,CO,238.000000,70.400000,61.000000,78.300000,2016
 RotavirusVaccinationAge,19 Months,IA,313.000000,69.900000,62.500000,76.400000,2011
@@ -3035,6 +3113,7 @@ RotavirusVaccinationPoverty,Living At or Above Poverty,MS,162.000000,80.800000,7
 RotavirusVaccinationWIC,Not Participating ,UT,167.000000,85.700000,79.000000,90.600000,2016
 RotavirusVaccinationPoverty,Living Below Poverty,NC,67.000000,77.800000,62.000000,88.300000,2014
 RotavirusVaccinationFacilityType,Mixed,MO,48.000000,57.300000,40.400000,72.600000,2009
+RotavirusVaccinationFacilityType,Mixed,US,2450.000000,66.500000,62.300000,70.400000,2014
 RotavirusVaccinationFacilityType,Mixed,CA,56.000000,55.100000,36.400000,72.500000,2014
 RotavirusVaccinationUrbanicity,Living In A Non MSA,ME,119.000000,33.300000,24.200000,44.000000,2009
 RotavirusVaccinationWIC,Not Participating ,MT,139.000000,71.500000,62.400000,79.200000,2015
@@ -3048,12 +3127,15 @@ RotavirusVaccinationAge,19 Months,MN,249.000000,70.900000,62.400000,78.200000,20
 RotavirusVaccinationWIC,Participating,NJ,89.000000,63.300000,50.200000,74.700000,2015
 RotavirusVaccinationVFCProgramProvider,Not Participating ,MO,68.000000,57.100000,39.100000,73.300000,2011
 RotavirusVaccinationUrbanicity,Living In A Non MSA,MI,44.000000,56.400000,36.100000,74.800000,2014
+RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,US,843.000000,38.400000,33.000000,44.100000,2009
 RotavirusVaccinationFacilityType,Public,VT,47.000000,81.500000,64.300000,91.500000,2017
 RotavirusVaccinationAge,24 Months,GA,359.000000,66.000000,59.100000,72.300000,2011
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,TN,77.000000,79.600000,66.400000,88.500000,2016
 RotavirusVaccinationAge,19-35 Months,TX,1379.000000,61.900000,57.500000,66.200000,2010
+RotavirusVaccinationPoverty,Unknown poverty,US,561.000000,41.900000,35.400000,48.600000,2009
 RotavirusVaccinationFacilityType,Mixed,OH,39.000000,60.700000,39.400000,78.700000,2015
 RotavirusVaccinationUrbanicity,Living In A Non MSA,HI,102.000000,54.900000,43.600000,65.800000,2010
+RotavirusVaccinationWIC,Participating,US,8133.000000,64.300000,62.400000,66.100000,2011
 RotavirusVaccinationAge,24 Months,MA,312.000000,84.700000,77.900000,89.700000,2016
 RotavirusVaccinationFacilityType,Private,CO,194.000000,80.600000,72.000000,87.000000,2014
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,NM,99.000000,75.100000,63.300000,84.000000,2017
@@ -3062,6 +3144,7 @@ RotavirusVaccinationUrbanicity,Living In An MSA Central City,IN,112.000000,80.10
 RotavirusVaccinationAge,7 Months,AR,188.000000,56.000000,47.000000,64.700000,2013
 RotavirusVaccinationWIC,Not Participating ,KY,139.000000,73.600000,65.200000,80.600000,2010
 RotavirusVaccinationFacilityType,Public,SD,41.000000,54.000000,36.500000,70.500000,2016
+RotavirusVaccinationPoverty,Living At or Above Poverty,US,11392.000000,77.900000,76.100000,79.600000,2017
 RotavirusVaccinationVFCProgramProvider,Participating,MT,239.000000,32.500000,25.700000,40.100000,2009
 RotavirusVaccinationAge,19 Months,RI,207.000000,88.800000,82.500000,93.100000,2014
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,AR,82.000000,51.800000,36.900000,66.400000,2010
@@ -3137,6 +3220,7 @@ RotavirusVaccinationWIC,Not Participating ,AR,88.000000,87.700000,77.400000,93.6
 RotavirusVaccinationVFCProgramProvider,Not Participating ,TN,84.000000,62.800000,49.000000,74.800000,2009
 RotavirusVaccinationVFCProgramProvider,Participating,IL,327.000000,75.100000,68.900000,80.400000,2016
 RotavirusVaccinationFacilityType,Mixed,OR,42.000000,73.200000,54.100000,86.400000,2017
+RotavirusVaccinationAge,24 Months,US,15333.000000,73.200000,71.600000,74.700000,2017
 RotavirusVaccinationAge,19-35 Months,NJ,332.000000,53.900000,46.700000,60.900000,2010
 RotavirusVaccinationWIC,Not Participating ,OH,154.000000,78.500000,70.100000,85.000000,2017
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,SD,68.000000,73.800000,60.500000,83.800000,2015
@@ -3148,6 +3232,7 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,OK,166.000000,42.2000
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,SC,33.000000,62.800000,41.700000,80.000000,2017
 RotavirusVaccinationAge,7 Months,ID,289.000000,68.200000,60.600000,75.000000,2012
 RotavirusVaccinationFacilityType,Private,KS,93.000000,78.700000,67.400000,86.900000,2016
+RotavirusVaccinationFacilityType,Public,US,1565.000000,64.500000,59.400000,69.200000,2016
 RotavirusVaccinationRaceEthnicity,Hispanic,PA,95.000000,70.700000,55.100000,82.600000,2012
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,TX,400.000000,75.000000,67.400000,81.300000,2015
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,MD,123.000000,81.700000,69.200000,89.900000,2015
@@ -3175,11 +3260,13 @@ RotavirusVaccinationWIC,Participating,AK,145.000000,59.200000,49.400000,68.20000
 RotavirusVaccinationFacilityType,Mixed,MI,45.000000,76.500000,61.300000,87.000000,2013
 RotavirusVaccinationAge,19 Months,HI,250.000000,75.400000,68.700000,81.100000,2014
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,ME,244.000000,64.000000,56.300000,71.000000,2012
+RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,US,224.000000,62.500000,52.100000,71.800000,2015
 RotavirusVaccinationFacilityType,Private,SC,164.000000,77.700000,67.400000,85.500000,2016
 RotavirusVaccinationAge,24 Months,CA,328.000000,70.000000,61.000000,77.600000,2016
 RotavirusVaccinationPoverty,Living Below Poverty,NV,69.000000,59.900000,46.400000,72.100000,2017
 RotavirusVaccinationAge,7 Months,OK,220.000000,67.200000,58.400000,74.900000,2015
 RotavirusVaccinationFacilityType,Public,PA,41.000000,56.800000,34.200000,76.800000,2016
+RotavirusVaccinationAge,19-35 Months,US,16687.000000,68.600000,67.200000,69.900000,2012
 RotavirusVaccinationFacilityType,Other,DE,55.000000,82.000000,67.800000,90.700000,2010
 RotavirusVaccinationAge,19-35 Months,SC,282.000000,72.400000,65.200000,78.500000,2016
 RotavirusVaccinationAge,19-35 Months,GA,297.000000,48.500000,41.500000,55.600000,2009
@@ -3242,6 +3329,7 @@ RotavirusVaccinationUrbanicity,Living In An MSA Central City,OR,134.000000,67.60
 RotavirusVaccinationFacilityType,Public,TX,85.000000,61.900000,44.500000,76.600000,2014
 RotavirusVaccinationFacilityType,Mixed,KS,62.000000,71.800000,57.400000,82.700000,2010
 RotavirusVaccinationRaceEthnicity,Native Hawaiian or other Pacific Islander only  non-Hispanic,HI,56.000000,58.700000,42.900000,72.900000,2016
+RotavirusVaccinationPoverty,Living At or Above Poverty,US,12552.000000,62.900000,61.300000,64.500000,2010
 RotavirusVaccinationPoverty,Living Below Poverty,OK,58.000000,49.000000,34.200000,64.000000,2017
 RotavirusVaccinationFacilityType,Public,WA,77.000000,56.000000,42.700000,68.500000,2010
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,OK,123.000000,40.900000,31.000000,51.700000,2010
@@ -3327,6 +3415,7 @@ RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MS,77.000000,64.
 RotavirusVaccinationFacilityType,Private,UT,134.000000,88.500000,81.500000,93.100000,2017
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,KS,56.000000,45.600000,30.300000,61.900000,2009
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,NC,47.000000,49.200000,34.300000,64.300000,2009
+RotavirusVaccinationVFCProgramProvider,Not Participating ,US,1544.000000,77.400000,73.200000,81.200000,2017
 RotavirusVaccinationPoverty,Living Below Poverty,TN,64.000000,54.000000,40.700000,66.600000,2010
 RotavirusVaccinationFacilityType,Mixed,AK,51.000000,55.100000,37.200000,71.800000,2011
 RotavirusVaccinationVFCProgramProvider,Participating,KY,151.000000,80.700000,72.600000,86.900000,2017
@@ -3344,6 +3433,7 @@ RotavirusVaccinationWIC,Not Participating ,FL,177.000000,69.000000,58.000000,78.
 RotavirusVaccinationFacilityType,Public,CA,32.000000,72.000000,49.300000,87.200000,2014
 RotavirusVaccinationAge,7 Months,NJ,262.000000,66.200000,58.400000,73.200000,2014
 RotavirusVaccinationFacilityType,Private,MO,80.000000,87.200000,76.600000,93.400000,2013
+RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,US,4879.000000,74.700000,72.300000,76.900000,2013
 RotavirusVaccinationAge,19 Months,WI,277.000000,67.400000,59.900000,74.100000,2012
 RotavirusVaccinationWIC,Participating,NE,100.000000,67.600000,56.200000,77.300000,2017
 RotavirusVaccinationAge,7 Months,VA,394.000000,75.400000,68.400000,81.300000,2011
@@ -3367,6 +3457,7 @@ RotavirusVaccinationFacilityType,Other,MT,75.000000,63.400000,42.600000,80.10000
 RotavirusVaccinationAge,24 Months,IA,197.000000,67.500000,58.400000,75.400000,2014
 RotavirusVaccinationFacilityType,Mixed,VT,37.000000,75.600000,56.200000,88.200000,2016
 RotavirusVaccinationFacilityType,Private,HI,185.000000,59.400000,48.700000,69.300000,2011
+RotavirusVaccinationRaceEthnicity,Hispanic,US,3325.000000,68.300000,65.300000,71.100000,2011
 RotavirusVaccinationPoverty,Living Below Poverty,WA,36.000000,69.000000,48.700000,83.900000,2017
 RotavirusVaccinationPoverty,Living Below Poverty,SD,46.000000,62.900000,46.100000,77.100000,2013
 RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,OK,33.000000,78.800000,56.600000,91.400000,2015
@@ -3377,6 +3468,7 @@ RotavirusVaccinationVFCProgramProvider,Participating,MN,200.000000,78.000000,69.
 RotavirusVaccinationAge,19-35 Months,VT,331.000000,34.500000,29.000000,40.600000,2009
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,WY,49.000000,76.000000,56.600000,88.500000,2014
 RotavirusVaccinationUrbanicity,Living In A Non MSA,WI,55.000000,68.900000,53.600000,80.900000,2015
+RotavirusVaccinationAge,24 Months,US,14893.000000,71.700000,70.100000,73.200000,2014
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,KS,127.000000,84.300000,75.700000,90.200000,2017
 RotavirusVaccinationAge,24 Months,AK,278.000000,55.600000,48.000000,62.900000,2011
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,VA,200.000000,71.400000,59.700000,80.800000,2015
@@ -3478,9 +3570,11 @@ RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,DE,170.000000,76
 RotavirusVaccinationAge,19 Months,GU,314.000000,53.800000,47.400000,60.100000,2016
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,TX,418.000000,75.200000,68.400000,81.000000,2016
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,WV,118.000000,64.200000,52.800000,74.100000,2011
+RotavirusVaccinationRaceEthnicity,Native Hawaiian or other Pacific Islander only  non-Hispanic,US,104.000000,70.200000,55.400000,81.700000,2016
 RotavirusVaccinationPoverty,Living Below Poverty,DE,86.000000,81.700000,68.800000,90.000000,2013
 RotavirusVaccinationFacilityType,Private,MN,137.000000,87.100000,78.700000,92.400000,2015
 RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,SD,31.000000,64.900000,44.800000,80.800000,2016
+RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,US,679.000000,75.600000,69.800000,80.500000,2015
 RotavirusVaccinationRaceEthnicity,Hispanic,MA,30.000000,91.100000,77.700000,96.800000,2011
 RotavirusVaccinationAge,19-35 Months,NV,297.000000,62.000000,54.500000,68.900000,2014
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MT,173.000000,71.900000,62.500000,79.600000,2017
@@ -3528,6 +3622,7 @@ RotavirusVaccinationWIC,Not Participating ,DC,182.000000,85.200000,77.200000,90.
 RotavirusVaccinationAge,19-35 Months,NH,236.000000,84.500000,78.200000,89.200000,2017
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,DC,280.000000,67.300000,59.400000,74.300000,2014
 RotavirusVaccinationAge,19 Months,MN,278.000000,72.000000,63.400000,79.200000,2011
+RotavirusVaccinationVFCProgramProvider,Not Participating ,US,1575.000000,60.800000,56.700000,64.800000,2010
 RotavirusVaccinationWIC,Participating,IA,83.000000,56.800000,43.300000,69.400000,2011
 RotavirusVaccinationFacilityType,Private,WI,79.000000,76.800000,63.100000,86.500000,2013
 RotavirusVaccinationWIC,Participating,NC,125.000000,63.500000,52.200000,73.400000,2011
@@ -3545,12 +3640,14 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,AZ,150.000000,60.8000
 RotavirusVaccinationVFCProgramProvider,Not Participating ,TX,62.000000,57.300000,34.100000,77.700000,2013
 RotavirusVaccinationFacilityType,Public,ND,33.000000,67.000000,47.600000,81.900000,2017
 RotavirusVaccinationUrbanicity,Living In A Non MSA,SC,64.000000,34.400000,22.600000,48.500000,2009
+RotavirusVaccinationRaceEthnicity,Native Hawaiian or other Pacific Islander only  non-Hispanic,US,90.000000,47.900000,27.600000,69.000000,2009
 RotavirusVaccinationVFCProgramProvider,Participating,AR,271.000000,60.800000,52.200000,68.800000,2011
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,FL,160.000000,57.400000,46.800000,67.300000,2011
 RotavirusVaccinationAge,19 Months,ND,247.000000,74.900000,65.600000,82.400000,2011
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,IA,105.000000,68.800000,54.800000,80.100000,2011
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,MS,71.000000,70.300000,56.700000,81.000000,2016
 RotavirusVaccinationUrbanicity,Living In A Non MSA,CO,67.000000,35.900000,19.900000,55.800000,2011
+RotavirusVaccinationUrbanicity,Living In A Non MSA,US,2850.000000,70.300000,67.000000,73.500000,2016
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,AL,70.000000,60.300000,45.200000,73.700000,2012
 RotavirusVaccinationVFCProgramProvider,Participating,NY,427.000000,75.300000,70.000000,80.000000,2017
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,WV,192.000000,67.400000,58.600000,75.100000,2013
@@ -3621,6 +3718,7 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,KS,202.000000,55.1000
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,IA,282.000000,71.900000,64.200000,78.500000,2011
 RotavirusVaccinationPoverty,Living Below Poverty,NC,60.000000,66.800000,52.100000,78.700000,2015
 RotavirusVaccinationVFCProgramProvider,Participating,WV,229.000000,68.000000,59.600000,75.400000,2014
+RotavirusVaccinationWIC,Not Participating ,US,10009.000000,48.700000,47.000000,50.400000,2009
 RotavirusVaccinationVFCProgramProvider,Participating,FL,226.000000,61.800000,53.300000,69.700000,2010
 RotavirusVaccinationFacilityType,Private,AR,134.000000,32.800000,24.000000,43.000000,2009
 RotavirusVaccinationFacilityType,Mixed,CA,49.000000,48.600000,33.000000,64.500000,2009
@@ -3641,6 +3739,7 @@ RotavirusVaccinationAge,24 Months,SC,249.000000,75.000000,66.100000,82.100000,20
 RotavirusVaccinationFacilityType,Private,IN,102.000000,80.100000,69.000000,87.900000,2015
 RotavirusVaccinationWIC,Participating,AR,163.000000,22.600000,16.500000,30.200000,2009
 RotavirusVaccinationAge,19-35 Months,TX,1683.000000,72.300000,68.400000,76.000000,2011
+RotavirusVaccinationWIC,Participating,US,7850.000000,64.800000,62.900000,66.700000,2012
 RotavirusVaccinationAge,24 Months,MA,271.000000,80.100000,71.500000,86.600000,2017
 RotavirusVaccinationVFCProgramProvider,Participating,PA,449.000000,74.600000,67.300000,80.800000,2016
 RotavirusVaccinationAge,7 Months,NM,342.000000,43.600000,37.200000,50.200000,2009
@@ -3681,6 +3780,7 @@ RotavirusVaccinationUrbanicity,Living In An MSA Central City,OH,94.000000,73.200
 RotavirusVaccinationAge,19 Months,FL,273.000000,72.900000,64.300000,80.100000,2016
 RotavirusVaccinationAge,7 Months,TN,339.000000,53.100000,46.300000,59.700000,2009
 RotavirusVaccinationFacilityType,Private,AK,128.000000,77.100000,67.300000,84.600000,2015
+RotavirusVaccinationUrbanicity,Living In An MSA Central City,US,6689.000000,73.800000,71.300000,76.200000,2017
 RotavirusVaccinationAge,7 Months,CO,320.000000,73.400000,66.600000,79.300000,2014
 RotavirusVaccinationVFCProgramProvider,Participating,CT,242.000000,85.500000,79.000000,90.200000,2017
 RotavirusVaccinationAge,7 Months,OR,192.000000,72.900000,65.100000,79.600000,2015
@@ -3695,6 +3795,7 @@ RotavirusVaccinationPoverty,Living At or Above Poverty,ID,153.000000,82.500000,7
 RotavirusVaccinationWIC,Participating,TX,896.000000,70.900000,65.800000,75.500000,2011
 RotavirusVaccinationAge,19 Months,TX,1736.000000,67.400000,63.400000,71.200000,2012
 RotavirusVaccinationWIC,Not Participating ,OR,195.000000,41.100000,33.400000,49.300000,2009
+RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,US,195.000000,66.400000,55.900000,76.900000,2017
 RotavirusVaccinationAge,7 Months,AZ,279.000000,64.600000,55.700000,72.700000,2011
 RotavirusVaccinationFacilityType,Public,MO,33.000000,72.000000,50.000000,86.900000,2015
 RotavirusVaccinationPoverty,Living At or Above Poverty,ND,175.000000,83.700000,76.000000,89.300000,2017
@@ -3736,8 +3837,10 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,NV,96.000000,72.70000
 RotavirusVaccinationFacilityType,Other,ID,47.000000,59.300000,38.900000,77.000000,2012
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,OK,156.000000,29.000000,21.600000,37.600000,2009
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,SC,41.000000,62.800000,46.100000,77.000000,2016
+RotavirusVaccinationWIC,Not Participating ,US,8526.000000,80.100000,78.400000,81.800000,2016
 RotavirusVaccinationFacilityType,Mixed,VA,35.000000,73.500000,43.300000,91.000000,2016
 RotavirusVaccinationWIC,Participating,WY,93.000000,62.000000,49.900000,72.800000,2016
+RotavirusVaccinationFacilityType,Public,US,1708.000000,70.600000,66.700000,74.300000,2017
 RotavirusVaccinationRaceEthnicity,Hispanic,PA,86.000000,76.200000,59.400000,87.500000,2015
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,TX,283.000000,69.900000,60.700000,77.800000,2014
 RotavirusVaccinationFacilityType,Mixed,MA,30.000000,83.200000,60.700000,94.100000,2014
@@ -3759,15 +3862,18 @@ RotavirusVaccinationFacilityType,Private,CO,208.000000,47.100000,36.200000,58.30
 RotavirusVaccinationVFCProgramProvider,Participating,MT,175.000000,76.300000,67.200000,83.400000,2017
 RotavirusVaccinationPoverty,Living Below Poverty,OR,77.000000,59.800000,46.100000,72.000000,2012
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,ME,247.000000,61.000000,53.500000,67.900000,2011
+RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,US,254.000000,60.000000,47.300000,71.400000,2014
 RotavirusVaccinationAge,24 Months,CA,324.000000,64.700000,54.900000,73.500000,2017
 RotavirusVaccinationUrbanicity,Living In A Non MSA,UT,40.000000,80.100000,65.300000,89.600000,2011
 RotavirusVaccinationAge,24 Months,HI,236.000000,73.200000,65.900000,79.500000,2017
+RotavirusVaccinationAge,19-35 Months,US,13611.000000,72.600000,71.100000,74.000000,2013
 RotavirusVaccinationFacilityType,Other,DE,40.000000,64.900000,47.400000,79.200000,2009
 RotavirusVaccinationAge,19-35 Months,SC,238.000000,67.200000,58.500000,74.900000,2017
 RotavirusVaccinationAge,19-35 Months,GA,270.000000,71.600000,63.300000,78.700000,2014
 RotavirusVaccinationWIC,Not Participating ,SD,111.000000,81.900000,72.200000,88.700000,2015
 RotavirusVaccinationRaceEthnicity,Hispanic,AZ,86.000000,69.300000,55.900000,80.000000,2016
 RotavirusVaccinationPoverty,Unknown poverty,TX,106.000000,73.200000,61.200000,82.500000,2017
+RotavirusVaccinationFacilityType,Private,US,10493.000000,45.900000,44.300000,47.600000,2009
 RotavirusVaccinationAge,7 Months,ND,222.000000,83.100000,76.700000,88.100000,2017
 RotavirusVaccinationAge,7 Months,IA,298.000000,78.500000,72.800000,83.300000,2016
 RotavirusVaccinationWIC,Participating,MS,211.000000,56.700000,48.900000,64.200000,2010
@@ -3800,6 +3906,7 @@ RotavirusVaccinationFacilityType,Private,MT,59.000000,80.400000,65.100000,90.100
 RotavirusVaccinationFacilityType,Private,IL,282.000000,81.700000,75.800000,86.400000,2016
 RotavirusVaccinationFacilityType,Private,NY,325.000000,68.100000,61.500000,74.100000,2014
 RotavirusVaccinationFacilityType,Private,NY,364.000000,75.300000,69.600000,80.300000,2016
+RotavirusVaccinationRaceEthnicity,Native Hawaiian or other Pacific Islander only  non-Hispanic,US,83.000000,41.900000,23.800000,62.400000,2012
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,AL,42.000000,69.400000,52.700000,82.100000,2017
 RotavirusVaccinationFacilityType,Private,MD,279.000000,79.200000,68.900000,86.800000,2017
 RotavirusVaccinationPoverty,Living Below Poverty,MI,50.000000,41.500000,27.600000,57.000000,2010
@@ -3915,6 +4022,7 @@ RotavirusVaccinationAge,19-35 Months,NY,468.000000,73.800000,68.700000,78.400000
 RotavirusVaccinationPoverty,Living At or Above Poverty,WI,167.000000,79.600000,70.400000,86.600000,2016
 RotavirusVaccinationAge,24 Months,WI,307.000000,73.800000,65.900000,80.500000,2011
 RotavirusVaccinationAge,24 Months,NJ,285.000000,68.000000,61.100000,74.200000,2012
+RotavirusVaccinationPoverty,Unknown poverty,US,560.000000,71.400000,64.800000,77.200000,2016
 RotavirusVaccinationWIC,Participating,GU,182.000000,48.700000,40.600000,56.900000,2016
 RotavirusVaccinationFacilityType,Other,GA,33.000000,66.700000,41.300000,85.100000,2017
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,ND,196.000000,79.000000,71.100000,85.100000,2015
@@ -3926,6 +4034,7 @@ RotavirusVaccinationFacilityType,Public,CA,31.000000,78.700000,59.800000,90.2000
 RotavirusVaccinationAge,7 Months,NJ,272.000000,75.200000,67.800000,81.300000,2015
 RotavirusVaccinationFacilityType,Private,MO,131.000000,76.300000,64.500000,85.100000,2012
 RotavirusVaccinationWIC,Not Participating ,WI,145.000000,79.600000,69.300000,87.000000,2014
+RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,US,5953.000000,70.500000,68.500000,72.500000,2012
 RotavirusVaccinationAge,19 Months,WI,221.000000,73.600000,66.200000,79.900000,2013
 RotavirusVaccinationWIC,Participating,NE,73.000000,69.900000,57.300000,80.100000,2016
 RotavirusVaccinationWIC,Participating,NH,56.000000,37.700000,24.700000,52.800000,2009
@@ -3946,6 +4055,7 @@ RotavirusVaccinationAge,7 Months,WY,250.000000,68.200000,61.200000,74.600000,201
 RotavirusVaccinationPoverty,Living At or Above Poverty,ME,176.000000,38.600000,30.500000,47.500000,2010
 RotavirusVaccinationFacilityType,Mixed,AL,39.000000,67.700000,44.400000,84.600000,2017
 RotavirusVaccinationAge,24 Months,IA,279.000000,75.100000,68.700000,80.600000,2015
+RotavirusVaccinationRaceEthnicity,Hispanic,US,3317.000000,70.000000,66.900000,73.000000,2012
 RotavirusVaccinationPoverty,Living Below Poverty,WA,60.000000,70.200000,55.400000,81.700000,2016
 RotavirusVaccinationFacilityType,Private,DE,149.000000,84.900000,77.300000,90.300000,2013
 RotavirusVaccinationPoverty,Living At or Above Poverty,LA,186.000000,52.300000,43.600000,60.800000,2009
@@ -3955,6 +4065,7 @@ RotavirusVaccinationAge,19-35 Months,VT,235.000000,51.800000,44.700000,58.800000
 RotavirusVaccinationPoverty,Unknown poverty,PA,31.000000,50.000000,24.900000,75.200000,2015
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,WY,48.000000,73.800000,55.900000,86.200000,2013
 RotavirusVaccinationFacilityType,Private,KS,97.000000,92.500000,84.100000,96.600000,2014
+RotavirusVaccinationAge,24 Months,US,15167.000000,73.200000,71.800000,74.500000,2015
 RotavirusVaccinationPoverty,Living At or Above Poverty,MS,169.000000,66.800000,54.900000,76.900000,2012
 RotavirusVaccinationAge,24 Months,AK,298.000000,60.300000,53.400000,66.900000,2012
 RotavirusVaccinationWIC,Not Participating ,MI,209.000000,55.500000,46.400000,64.200000,2009
@@ -3984,6 +4095,7 @@ RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MO,77.000000,78.
 RotavirusVaccinationVFCProgramProvider,Not Participating ,FL,40.000000,79.100000,47.200000,94.100000,2017
 RotavirusVaccinationWIC,Participating,FL,122.000000,59.400000,48.200000,69.600000,2010
 RotavirusVaccinationWIC,Not Participating ,KS,101.000000,76.600000,65.600000,84.800000,2013
+RotavirusVaccinationFacilityType,Other,US,2775.000000,72.200000,68.600000,75.400000,2016
 RotavirusVaccinationAge,19 Months,DE,232.000000,84.300000,78.300000,88.800000,2017
 RotavirusVaccinationWIC,Participating,NE,73.000000,55.900000,42.100000,68.900000,2009
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MO,144.000000,53.400000,43.100000,63.500000,2009
@@ -4001,6 +4113,7 @@ RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,OK,60.000000,80.
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,KS,59.000000,77.300000,61.400000,88.000000,2017
 RotavirusVaccinationFacilityType,Other,KS,42.000000,58.600000,41.600000,73.800000,2013
 RotavirusVaccinationFacilityType,Public,WA,39.000000,71.300000,51.900000,85.100000,2011
+RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,US,755.000000,73.000000,65.200000,79.600000,2017
 RotavirusVaccinationVFCProgramProvider,Not Participating ,IL,161.000000,65.900000,50.600000,78.500000,2011
 RotavirusVaccinationWIC,Not Participating ,NY,280.000000,40.800000,34.400000,47.500000,2009
 RotavirusVaccinationPoverty,Living At or Above Poverty,IL,601.000000,69.200000,62.500000,75.100000,2011
@@ -4015,6 +4128,7 @@ RotavirusVaccinationRaceEthnicity,Hispanic,CA,144.000000,75.700000,65.300000,83.
 RotavirusVaccinationPoverty,Living At or Above Poverty,VA,317.000000,72.100000,62.000000,80.400000,2015
 RotavirusVaccinationAge,19-35 Months,IN,309.000000,66.000000,58.500000,72.700000,2014
 RotavirusVaccinationAge,19 Months,AK,298.000000,60.300000,53.400000,66.900000,2012
+RotavirusVaccinationUrbanicity,Living In A Non MSA,US,2859.000000,66.700000,63.400000,69.800000,2013
 RotavirusVaccinationWIC,Not Participating ,FL,174.000000,44.100000,35.400000,53.200000,2009
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,ME,115.000000,76.200000,67.100000,83.300000,2016
 RotavirusVaccinationVFCProgramProvider,Participating,ME,255.000000,29.100000,23.100000,35.900000,2009
@@ -4140,6 +4254,7 @@ RotavirusVaccinationUrbanicity,Living In An MSA Central City,ID,89.000000,75.700
 RotavirusVaccinationRaceEthnicity,Hispanic,NC,45.000000,80.400000,62.700000,90.900000,2012
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,KY,174.000000,81.200000,73.500000,87.000000,2017
 RotavirusVaccinationWIC,Participating,WV,148.000000,65.700000,55.800000,74.400000,2015
+RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,US,1352.000000,69.700000,66.000000,73.200000,2015
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,SC,125.000000,74.300000,63.100000,83.100000,2013
 RotavirusVaccinationWIC,Participating,OK,186.000000,51.000000,41.600000,60.300000,2012
 RotavirusVaccinationWIC,Participating,MO,102.000000,65.100000,52.700000,75.800000,2012
@@ -4210,6 +4325,7 @@ RotavirusVaccinationWIC,Participating,IL,262.000000,69.000000,60.600000,76.30000
 RotavirusVaccinationPoverty,Living Below Poverty,TX,557.000000,69.300000,63.000000,75.000000,2011
 RotavirusVaccinationFacilityType,Other,OH,53.000000,67.200000,45.200000,83.600000,2011
 RotavirusVaccinationFacilityType,Mixed,OH,39.000000,34.500000,17.900000,56.000000,2009
+RotavirusVaccinationWIC,Participating,US,6450.000000,68.800000,66.600000,70.900000,2013
 RotavirusVaccinationPoverty,Living Below Poverty,KS,48.000000,56.600000,39.400000,72.300000,2017
 RotavirusVaccinationWIC,Not Participating ,AL,133.000000,75.600000,63.100000,84.900000,2015
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,IN,116.000000,66.300000,55.000000,75.900000,2013
@@ -4222,6 +4338,7 @@ RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,CA,140.000000,65.2000
 RotavirusVaccinationWIC,Not Participating ,OH,149.000000,72.800000,62.400000,81.200000,2010
 RotavirusVaccinationVFCProgramProvider,Participating,DC,152.000000,54.200000,43.700000,64.300000,2010
 RotavirusVaccinationAge,24 Months,VA,294.000000,71.900000,63.400000,79.000000,2012
+RotavirusVaccinationVFCProgramProvider,Participating,US,11772.000000,75.700000,74.100000,77.300000,2016
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,VA,120.000000,78.300000,61.400000,89.100000,2013
 RotavirusVaccinationPoverty,Living At or Above Poverty,NJ,190.000000,62.600000,52.800000,71.400000,2014
 RotavirusVaccinationFacilityType,Private,VT,130.000000,77.800000,68.800000,84.800000,2013
@@ -4229,6 +4346,7 @@ RotavirusVaccinationVFCProgramProvider,Participating,ND,278.000000,80.500000,74.
 RotavirusVaccinationFacilityType,Private,KY,105.000000,73.100000,61.900000,82.000000,2015
 RotavirusVaccinationAge,19-35 Months,IA,304.000000,70.200000,62.200000,77.100000,2012
 RotavirusVaccinationAge,7 Months,ME,221.000000,71.100000,62.900000,78.100000,2015
+RotavirusVaccinationVFCProgramProvider,Not Participating ,US,1335.000000,76.100000,71.200000,80.500000,2014
 RotavirusVaccinationRaceEthnicity,Hispanic,DE,52.000000,68.600000,51.700000,81.700000,2016
 RotavirusVaccinationAge,24 Months,AR,188.000000,56.000000,47.000000,64.700000,2013
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,NC,128.000000,76.800000,65.800000,85.100000,2016
@@ -4242,6 +4360,7 @@ RotavirusVaccinationAge,19 Months,FL,314.000000,69.100000,61.200000,76.000000,20
 RotavirusVaccinationAge,7 Months,TN,277.000000,65.900000,59.000000,72.300000,2010
 RotavirusVaccinationFacilityType,Private,AK,122.000000,73.500000,63.000000,82.000000,2014
 RotavirusVaccinationRaceEthnicity,Hispanic,AZ,97.000000,77.100000,65.600000,85.600000,2015
+RotavirusVaccinationUrbanicity,Living In An MSA Central City,US,6447.000000,74.900000,72.700000,77.100000,2016
 RotavirusVaccinationVFCProgramProvider,Participating,MO,185.000000,71.200000,61.700000,79.200000,2012
 RotavirusVaccinationAge,7 Months,CO,246.000000,75.900000,68.700000,81.800000,2015
 RotavirusVaccinationAge,19-35 Months,ID,282.000000,62.000000,53.500000,69.900000,2011
@@ -4255,6 +4374,7 @@ RotavirusVaccinationVFCProgramProvider,Participating,TN,220.000000,65.700000,56.
 RotavirusVaccinationVFCProgramProvider,Participating,HI,201.000000,71.000000,63.100000,77.800000,2015
 RotavirusVaccinationVFCProgramProvider,Participating,AL,204.000000,75.700000,66.700000,82.900000,2015
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,RI,190.000000,86.400000,78.800000,91.600000,2017
+RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,US,214.000000,65.500000,54.700000,74.900000,2016
 RotavirusVaccinationAge,7 Months,AZ,299.000000,60.700000,53.800000,67.100000,2010
 RotavirusVaccinationVFCProgramProvider,Participating,WI,167.000000,75.700000,66.500000,83.000000,2015
 RotavirusVaccinationPoverty,Living At or Above Poverty,ND,174.000000,80.400000,72.600000,86.400000,2016
@@ -4289,13 +4409,16 @@ RotavirusVaccinationAge,19 Months,CO,320.000000,72.800000,65.900000,78.800000,20
 RotavirusVaccinationFacilityType,Private,IL,389.000000,66.100000,59.000000,72.500000,2010
 RotavirusVaccinationWIC,Participating,OH,133.000000,62.500000,51.100000,72.700000,2012
 RotavirusVaccinationVFCProgramProvider,Participating,IL,492.000000,66.200000,59.400000,72.400000,2011
+RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,US,8460.000000,74.600000,72.800000,76.300000,2015
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,SD,43.000000,73.600000,56.400000,85.800000,2013
 RotavirusVaccinationPoverty,Living Below Poverty,UT,41.000000,77.000000,61.700000,87.400000,2013
+RotavirusVaccinationUrbanicity,Living In A Non MSA,US,3877.000000,51.900000,48.900000,54.800000,2010
 RotavirusVaccinationAge,24 Months,SD,254.000000,55.300000,45.100000,65.100000,2011
 RotavirusVaccinationWIC,Participating,AL,130.000000,66.000000,55.200000,75.300000,2016
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,NV,91.000000,77.400000,66.600000,85.400000,2016
 RotavirusVaccinationUrbanicity,Living In A Non MSA,MS,121.000000,75.400000,64.900000,83.500000,2016
 RotavirusVaccinationFacilityType,Other,ID,46.000000,73.000000,56.800000,84.800000,2015
+RotavirusVaccinationWIC,Not Participating ,US,8896.000000,78.500000,76.500000,80.300000,2017
 RotavirusVaccinationFacilityType,Mixed,CA,49.000000,44.600000,24.100000,67.100000,2017
 RotavirusVaccinationFacilityType,Mixed,VA,53.000000,94.400000,77.600000,98.800000,2017
 RotavirusVaccinationWIC,Participating,WY,92.000000,76.500000,65.400000,84.800000,2017
@@ -4312,10 +4435,12 @@ RotavirusVaccinationFacilityType,Mixed,MT,51.000000,71.700000,56.600000,83.10000
 RotavirusVaccinationPoverty,Living At or Above Poverty,SD,199.000000,65.400000,53.100000,75.800000,2011
 RotavirusVaccinationFacilityType,Mixed,OH,31.000000,86.100000,68.100000,94.800000,2016
 RotavirusVaccinationPoverty,Living At or Above Poverty,SC,137.000000,76.000000,65.400000,84.200000,2013
+RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,US,1104.000000,65.700000,60.200000,70.800000,2017
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,WY,197.000000,68.700000,60.600000,75.800000,2016
 RotavirusVaccinationWIC,Not Participating ,KS,106.000000,81.500000,70.800000,88.900000,2017
 RotavirusVaccinationVFCProgramProvider,Participating,NC,230.000000,76.300000,67.700000,83.100000,2013
 RotavirusVaccinationUrbanicity,Living In A Non MSA,OK,109.000000,31.100000,21.400000,42.700000,2009
+RotavirusVaccinationAge,19 Months,US,19144.000000,67.200000,66.000000,68.500000,2011
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,LA,186.000000,69.100000,60.400000,76.700000,2011
 RotavirusVaccinationFacilityType,Public,IL,96.000000,50.200000,36.500000,63.800000,2010
 RotavirusVaccinationAge,24 Months,OK,301.000000,58.800000,52.300000,65.000000,2013
@@ -4324,6 +4449,7 @@ RotavirusVaccinationAge,7 Months,VA,278.000000,53.100000,45.000000,61.000000,200
 RotavirusVaccinationVFCProgramProvider,Participating,MT,204.000000,72.000000,63.900000,78.900000,2016
 RotavirusVaccinationPoverty,Living Below Poverty,OR,60.000000,51.200000,37.300000,65.000000,2013
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,ME,198.000000,40.700000,33.100000,48.800000,2010
+RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,US,229.000000,34.500000,23.200000,47.800000,2009
 RotavirusVaccinationUrbanicity,Living In A Non MSA,UT,40.000000,59.000000,39.600000,75.900000,2010
 RotavirusVaccinationAge,24 Months,HI,266.000000,67.800000,60.700000,74.100000,2016
 RotavirusVaccinationAge,19-35 Months,GA,286.000000,73.800000,66.200000,80.100000,2015
@@ -4401,6 +4527,7 @@ RotavirusVaccinationFacilityType,Private,WV,95.000000,75.900000,63.600000,85.000
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,LA,72.000000,56.500000,42.500000,69.600000,2010
 RotavirusVaccinationAge,19-35 Months,KY,281.000000,66.000000,58.000000,73.100000,2011
 RotavirusVaccinationAge,7 Months,WY,218.000000,77.600000,69.600000,84.000000,2014
+RotavirusVaccinationFacilityType,Public,US,1771.000000,35.700000,31.700000,39.800000,2009
 RotavirusVaccinationVFCProgramProvider,Participating,NM,222.000000,69.400000,61.500000,76.400000,2013
 RotavirusVaccinationWIC,Participating,LA,186.000000,68.300000,59.100000,76.200000,2011
 RotavirusVaccinationAge,19-35 Months,ND,247.000000,74.900000,65.600000,82.400000,2011
@@ -4419,6 +4546,7 @@ RotavirusVaccinationFacilityType,Mixed,MD,88.000000,61.300000,40.400000,78.60000
 RotavirusVaccinationAge,19-35 Months,MD,657.000000,66.000000,59.800000,71.700000,2011
 RotavirusVaccinationWIC,Participating,NY,238.000000,62.300000,54.500000,69.500000,2011
 RotavirusVaccinationFacilityType,Other,CA,57.000000,68.300000,47.500000,83.700000,2016
+RotavirusVaccinationPoverty,Living At or Above Poverty,US,11693.000000,72.500000,70.900000,74.100000,2012
 RotavirusVaccinationPoverty,Living At or Above Poverty,MT,164.000000,73.800000,64.000000,81.700000,2014
 RotavirusVaccinationRaceEthnicity,Hispanic,NJ,68.000000,59.000000,45.000000,71.600000,2012
 RotavirusVaccinationFacilityType,Other,VA,44.000000,60.100000,41.500000,76.100000,2010
@@ -4479,9 +4607,11 @@ RotavirusVaccinationPoverty,Living Below Poverty,GA,65.000000,38.200000,26.30000
 RotavirusVaccinationFacilityType,Mixed,SD,51.000000,66.400000,49.800000,79.700000,2012
 RotavirusVaccinationPoverty,Living Below Poverty,IA,37.000000,48.800000,31.100000,66.800000,2011
 RotavirusVaccinationWIC,Not Participating ,GA,188.000000,81.700000,72.800000,88.200000,2011
+RotavirusVaccinationUrbanicity,Living In An MSA Central City,US,7814.000000,68.900000,66.900000,70.700000,2011
 RotavirusVaccinationAge,19-35 Months,CA,324.000000,64.700000,54.900000,73.500000,2017
 RotavirusVaccinationFacilityType,Private,CT,317.000000,69.700000,62.700000,75.900000,2011
 RotavirusVaccinationAge,7 Months,NJ,285.000000,68.000000,61.100000,74.200000,2012
+RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,US,7181.000000,67.400000,65.200000,69.400000,2011
 RotavirusVaccinationAge,19 Months,WI,240.000000,78.500000,70.800000,84.600000,2014
 RotavirusVaccinationWIC,Participating,MD,269.000000,62.400000,52.900000,71.000000,2011
 RotavirusVaccinationAge,7 Months,PA,594.000000,72.500000,66.700000,77.600000,2012
@@ -4501,6 +4631,7 @@ RotavirusVaccinationAge,19-35 Months,NC,269.000000,86.700000,80.200000,91.300000
 RotavirusVaccinationAge,19 Months,MO,397.000000,62.700000,56.300000,68.700000,2011
 RotavirusVaccinationAge,24 Months,IA,304.000000,70.200000,62.200000,77.100000,2012
 RotavirusVaccinationRaceEthnicity,Hispanic,VA,41.000000,77.200000,54.100000,90.700000,2011
+RotavirusVaccinationRaceEthnicity,Hispanic,US,2731.000000,73.700000,70.000000,77.100000,2013
 RotavirusVaccinationPoverty,Living Below Poverty,SD,51.000000,42.000000,26.200000,59.500000,2011
 RotavirusVaccinationAge,24 Months,RI,272.000000,87.600000,81.900000,91.700000,2015
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,NY,267.000000,41.900000,35.400000,48.600000,2010
@@ -4528,12 +4659,14 @@ RotavirusVaccinationPoverty,Unknown poverty,NY,39.000000,44.400000,28.600000,61.
 RotavirusVaccinationAge,19 Months,OR,296.000000,66.100000,59.200000,72.500000,2012
 RotavirusVaccinationAge,19 Months,VT,262.000000,72.700000,66.100000,78.400000,2015
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,AZ,133.000000,78.400000,68.700000,85.700000,2015
+RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,US,1011.000000,73.900000,68.400000,78.800000,2014
 RotavirusVaccinationAge,7 Months,KY,241.000000,65.300000,57.900000,72.100000,2015
 RotavirusVaccinationFacilityType,Other,WY,34.000000,67.300000,47.100000,82.600000,2013
 RotavirusVaccinationRaceEthnicity,Hispanic,CO,70.000000,68.200000,50.500000,81.900000,2011
 RotavirusVaccinationWIC,Participating,FL,175.000000,57.400000,48.100000,66.200000,2011
 RotavirusVaccinationPoverty,Living Below Poverty,AR,87.000000,41.200000,29.800000,53.700000,2010
 RotavirusVaccinationWIC,Not Participating ,KS,189.000000,62.800000,54.200000,70.700000,2010
+RotavirusVaccinationFacilityType,Other,US,2794.000000,70.400000,66.600000,73.800000,2017
 RotavirusVaccinationFacilityType,Private,CT,193.000000,46.000000,36.100000,56.200000,2009
 RotavirusVaccinationVFCProgramProvider,Not Participating ,IN,39.000000,70.200000,52.100000,83.600000,2010
 RotavirusVaccinationFacilityType,Other,CO,32.000000,69.800000,42.200000,87.900000,2013
@@ -4593,6 +4726,7 @@ RotavirusVaccinationUrbanicity,Living In An MSA Central City,MO,126.000000,67.00
 RotavirusVaccinationFacilityType,Public,OK,62.000000,26.600000,15.800000,41.100000,2009
 RotavirusVaccinationFacilityType,Mixed,MD,40.000000,80.900000,56.300000,93.300000,2016
 RotavirusVaccinationRaceEthnicity,Hispanic,UT,35.000000,80.800000,61.500000,91.800000,2012
+RotavirusVaccinationAge,19 Months,US,16687.000000,68.600000,67.200000,69.900000,2012
 RotavirusVaccinationPoverty,Living At or Above Poverty,RI,187.000000,77.500000,68.700000,84.400000,2010
 RotavirusVaccinationFacilityType,Public,AZ,37.000000,70.100000,50.700000,84.200000,2013
 RotavirusVaccinationFacilityType,Public,KS,38.000000,37.200000,20.200000,58.100000,2009
@@ -4678,6 +4812,7 @@ RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MA,232.000000,45
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MS,179.000000,59.600000,51.100000,67.700000,2010
 RotavirusVaccinationPoverty,Living Below Poverty,PA,121.000000,46.000000,32.300000,60.300000,2009
 RotavirusVaccinationWIC,Participating,MA,66.000000,80.600000,65.800000,90.000000,2011
+RotavirusVaccinationRaceEthnicity,Native Hawaiian or other Pacific Islander only  non-Hispanic,US,87.000000,54.200000,37.900000,69.600000,2011
 RotavirusVaccinationVFCProgramProvider,Participating,AR,155.000000,53.600000,44.000000,62.900000,2013
 RotavirusVaccinationAge,19 Months,IA,197.000000,67.500000,58.400000,75.400000,2014
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,FL,168.000000,44.400000,35.000000,54.100000,2009
@@ -4706,6 +4841,7 @@ RotavirusVaccinationRaceEthnicity,Hispanic,NC,36.000000,88.200000,70.800000,95.8
 RotavirusVaccinationFacilityType,Private,TN,185.000000,78.000000,67.800000,85.600000,2017
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,KY,177.000000,71.400000,62.800000,78.600000,2016
 RotavirusVaccinationWIC,Participating,WV,149.000000,59.700000,49.200000,69.400000,2014
+RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,US,1391.000000,61.600000,56.900000,66.200000,2014
 RotavirusVaccinationFacilityType,Mixed,NE,39.000000,73.800000,56.600000,85.900000,2016
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,OH,138.000000,77.500000,66.500000,85.600000,2016
 RotavirusVaccinationAge,19 Months,NE,246.000000,78.700000,72.400000,83.900000,2017
@@ -4754,6 +4890,7 @@ RotavirusVaccinationAge,24 Months,PR,296.000000,60.100000,53.100000,66.800000,20
 RotavirusVaccinationPoverty,Living Below Poverty,NC,59.000000,62.900000,46.400000,76.800000,2013
 RotavirusVaccinationFacilityType,Mixed,OK,63.000000,51.400000,35.800000,66.700000,2011
 RotavirusVaccinationFacilityType,Mixed,MO,58.000000,62.100000,46.500000,75.500000,2010
+RotavirusVaccinationWIC,Not Participating ,US,10983.000000,71.700000,70.100000,73.300000,2011
 RotavirusVaccinationFacilityType,Mixed,CA,49.000000,79.900000,63.300000,90.200000,2011
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,CT,95.000000,70.200000,58.800000,79.500000,2012
 RotavirusVaccinationAge,7 Months,NH,251.000000,83.000000,76.500000,88.000000,2012
@@ -4775,6 +4912,7 @@ RotavirusVaccinationWIC,Not Participating ,MS,74.000000,70.900000,56.600000,81.9
 RotavirusVaccinationAge,19-35 Months,TX,1266.000000,45.800000,40.500000,51.300000,2009
 RotavirusVaccinationWIC,Not Participating ,NM,93.000000,70.200000,57.300000,80.500000,2015
 RotavirusVaccinationFacilityType,Mixed,OH,48.000000,82.000000,62.900000,92.400000,2010
+RotavirusVaccinationWIC,Participating,US,6923.000000,67.500000,65.200000,69.700000,2014
 RotavirusVaccinationPoverty,Living Below Poverty,KS,38.000000,52.600000,35.800000,68.800000,2016
 RotavirusVaccinationWIC,Participating,PA,207.000000,74.000000,62.600000,82.800000,2017
 RotavirusVaccinationFacilityType,Other,WI,83.000000,79.900000,67.600000,88.300000,2016
@@ -4860,6 +4998,7 @@ RotavirusVaccinationUrbanicity,Living In An MSA Central City,SC,71.000000,76.300
 RotavirusVaccinationAge,19-35 Months,NJ,353.000000,42.400000,36.200000,48.900000,2009
 RotavirusVaccinationFacilityType,Private,IL,466.000000,69.200000,61.800000,75.700000,2011
 RotavirusVaccinationWIC,Participating,OH,98.000000,58.600000,46.200000,70.000000,2015
+RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,US,8614.000000,74.800000,73.100000,76.500000,2014
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,SD,60.000000,56.500000,41.200000,70.700000,2010
 RotavirusVaccinationFacilityType,Private,NH,114.000000,78.000000,67.600000,85.800000,2011
 RotavirusVaccinationPoverty,Living Below Poverty,UT,43.000000,67.400000,47.300000,82.700000,2014
@@ -4883,6 +5022,7 @@ RotavirusVaccinationAge,19-35 Months,TX,1305.000000,72.700000,68.600000,76.40000
 RotavirusVaccinationPoverty,Living Below Poverty,NH,44.000000,58.900000,40.900000,74.700000,2013
 RotavirusVaccinationFacilityType,Mixed,OH,49.000000,48.500000,32.700000,64.600000,2017
 RotavirusVaccinationAge,19-35 Months,MA,312.000000,84.700000,77.900000,89.700000,2016
+RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,US,1307.000000,67.200000,62.900000,71.300000,2016
 RotavirusVaccinationWIC,Not Participating ,WI,186.000000,73.700000,64.900000,81.000000,2012
 RotavirusVaccinationVFCProgramProvider,Participating,NC,243.000000,68.900000,60.900000,76.000000,2012
 RotavirusVaccinationUrbanicity,Living In A Non MSA,OK,73.000000,64.200000,48.400000,77.300000,2014
@@ -4974,6 +5114,7 @@ RotavirusVaccinationAge,7 Months,ND,253.000000,73.400000,66.900000,79.000000,201
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,NY,280.000000,73.500000,66.800000,79.400000,2015
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,LA,102.000000,68.500000,56.900000,78.200000,2011
 RotavirusVaccinationAge,7 Months,WY,219.000000,76.400000,69.300000,82.400000,2015
+RotavirusVaccinationFacilityType,Public,US,1746.000000,47.700000,43.500000,51.900000,2010
 RotavirusVaccinationVFCProgramProvider,Participating,NM,250.000000,81.000000,74.500000,86.100000,2012
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,OR,75.000000,60.800000,46.300000,73.600000,2014
 RotavirusVaccinationAge,7 Months,RI,249.000000,85.100000,78.800000,89.700000,2017
@@ -5005,6 +5146,7 @@ RotavirusVaccinationPoverty,Living At or Above Poverty,FL,150.000000,68.200000,5
 RotavirusVaccinationRaceEthnicity,Hispanic,AZ,82.000000,56.400000,41.900000,69.900000,2011
 RotavirusVaccinationVFCProgramProvider,Not Participating ,NJ,88.000000,50.300000,38.100000,62.400000,2010
 RotavirusVaccinationAge,19-35 Months,LA,304.000000,65.000000,57.300000,72.000000,2012
+RotavirusVaccinationVFCProgramProvider,Not Participating ,US,1370.000000,75.500000,70.500000,79.900000,2015
 RotavirusVaccinationAge,24 Months,VA,368.000000,81.800000,73.800000,87.700000,2016
 RotavirusVaccinationPoverty,Living Below Poverty,ME,44.000000,75.700000,60.600000,86.300000,2016
 RotavirusVaccinationFacilityType,Other,HI,61.000000,60.100000,42.400000,75.500000,2011
@@ -5053,10 +5195,12 @@ RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,ND,37.000000,79.
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,ND,242.000000,82.900000,77.200000,87.400000,2013
 RotavirusVaccinationFacilityType,Mixed,SD,38.000000,65.200000,44.900000,81.100000,2013
 RotavirusVaccinationWIC,Not Participating ,GA,141.000000,77.100000,67.400000,84.500000,2012
+RotavirusVaccinationUrbanicity,Living In An MSA Central City,US,6930.000000,59.200000,57.000000,61.300000,2010
 RotavirusVaccinationAge,19-35 Months,ID,198.000000,78.500000,71.100000,84.400000,2017
 RotavirusVaccinationAge,7 Months,NJ,265.000000,69.000000,61.800000,75.500000,2013
 RotavirusVaccinationWIC,Not Participating ,OK,141.000000,54.300000,45.100000,63.100000,2010
 RotavirusVaccinationWIC,Participating,IN,132.000000,60.100000,49.900000,69.500000,2013
+RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,US,5991.000000,62.300000,60.100000,64.400000,2010
 RotavirusVaccinationAge,19 Months,WI,245.000000,75.300000,67.900000,81.400000,2015
 RotavirusVaccinationFacilityType,Mixed,WA,86.000000,21.800000,12.300000,35.500000,2009
 RotavirusVaccinationWIC,Participating,MD,81.000000,46.900000,34.900000,59.300000,2010
@@ -5074,6 +5218,7 @@ RotavirusVaccinationAge,19 Months,MO,252.000000,69.300000,61.000000,76.500000,20
 RotavirusVaccinationAge,7 Months,IL,495.000000,72.600000,67.300000,77.400000,2013
 RotavirusVaccinationAge,24 Months,IA,214.000000,74.700000,65.700000,82.000000,2013
 RotavirusVaccinationRaceEthnicity,Hispanic,VA,31.000000,76.000000,56.500000,88.500000,2010
+RotavirusVaccinationRaceEthnicity,Hispanic,US,2864.000000,71.300000,67.300000,75.000000,2014
 RotavirusVaccinationAge,24 Months,RI,207.000000,88.800000,82.500000,93.100000,2014
 RotavirusVaccinationFacilityType,Private,WV,113.000000,70.000000,58.500000,79.500000,2015
 RotavirusVaccinationVFCProgramProvider,Participating,MN,204.000000,77.200000,68.600000,84.100000,2012
@@ -5155,6 +5300,7 @@ RotavirusVaccinationPoverty,Living Below Poverty,NJ,51.000000,76.700000,62.30000
 RotavirusVaccinationFacilityType,Private,CA,222.000000,78.500000,68.200000,86.100000,2015
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,MO,88.000000,52.300000,38.400000,65.900000,2009
 RotavirusVaccinationAge,24 Months,WY,219.000000,76.400000,69.300000,82.400000,2015
+RotavirusVaccinationAge,19 Months,US,13611.000000,72.600000,71.100000,74.000000,2013
 RotavirusVaccinationRaceEthnicity,Hispanic,NV,64.000000,76.900000,64.700000,85.800000,2016
 RotavirusVaccinationPoverty,Living At or Above Poverty,RI,297.000000,80.100000,73.300000,85.500000,2011
 RotavirusVaccinationFacilityType,Public,AZ,30.000000,63.400000,39.800000,82.000000,2012
@@ -5237,7 +5383,9 @@ RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,PA,38.000000,80.9
 RotavirusVaccinationAge,19 Months,CT,237.000000,76.400000,68.400000,82.900000,2014
 RotavirusVaccinationAge,7 Months,ID,225.000000,80.200000,73.400000,85.500000,2016
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MS,93.000000,61.700000,49.000000,73.000000,2013
+RotavirusVaccinationAge,7 Months,US,13611.000000,72.600000,71.100000,74.000000,2013
 RotavirusVaccinationVFCProgramProvider,Participating,GA,209.000000,78.500000,68.900000,85.800000,2016
+RotavirusVaccinationRaceEthnicity,Native Hawaiian or other Pacific Islander only  non-Hispanic,US,88.000000,63.700000,45.100000,78.900000,2010
 RotavirusVaccinationRaceEthnicity,Hispanic,DC,54.000000,76.500000,55.800000,89.400000,2017
 RotavirusVaccinationVFCProgramProvider,Participating,IL,446.000000,61.100000,54.500000,67.300000,2010
 RotavirusVaccinationAge,19 Months,IA,279.000000,75.100000,68.700000,80.600000,2015
@@ -5262,6 +5410,7 @@ RotavirusVaccinationVFCProgramProvider,Participating,KY,277.000000,44.400000,38.
 RotavirusVaccinationVFCProgramProvider,Not Participating ,AL,49.000000,80.100000,62.600000,90.700000,2015
 RotavirusVaccinationFacilityType,Other,ME,73.000000,68.300000,52.400000,80.800000,2015
 RotavirusVaccinationPoverty,Living At or Above Poverty,CT,220.000000,62.500000,54.000000,70.300000,2010
+RotavirusVaccinationFacilityType,Private,US,8237.000000,78.100000,76.100000,79.900000,2016
 RotavirusVaccinationWIC,Not Participating ,LA,100.000000,65.600000,53.500000,75.900000,2010
 RotavirusVaccinationPoverty,Living At or Above Poverty,PA,413.000000,76.800000,70.000000,82.400000,2012
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,NC,137.000000,73.300000,62.700000,81.800000,2015
@@ -5273,6 +5422,7 @@ RotavirusVaccinationFacilityType,Private,TN,153.000000,80.000000,70.700000,86.90
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,UT,299.000000,64.200000,56.600000,71.100000,2010
 RotavirusVaccinationUrbanicity,Living In A Non MSA,WI,88.000000,36.800000,26.000000,49.000000,2009
 RotavirusVaccinationWIC,Participating,WV,127.000000,67.200000,56.600000,76.300000,2013
+RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,US,1190.000000,62.100000,57.700000,66.300000,2013
 RotavirusVaccinationFacilityType,Mixed,NE,47.000000,74.400000,58.300000,85.800000,2017
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,OH,177.000000,67.100000,57.400000,75.500000,2017
 RotavirusVaccinationAge,19 Months,NE,219.000000,78.100000,70.900000,83.900000,2016
@@ -5323,6 +5473,7 @@ RotavirusVaccinationVFCProgramProvider,Not Participating ,HI,30.000000,58.600000
 RotavirusVaccinationUrbanicity,Living In A Non MSA,MN,60.000000,54.700000,38.400000,70.000000,2011
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,KS,171.000000,42.200000,33.500000,51.400000,2009
 RotavirusVaccinationFacilityType,Mixed,OK,83.000000,48.200000,36.200000,60.400000,2010
+RotavirusVaccinationWIC,Not Participating ,US,8808.000000,74.000000,72.100000,75.700000,2012
 RotavirusVaccinationVFCProgramProvider,Participating,FL,294.000000,36.100000,29.600000,43.200000,2009
 RotavirusVaccinationFacilityType,Mixed,CA,82.000000,58.300000,42.900000,72.300000,2010
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,CT,71.000000,84.400000,72.600000,91.700000,2013
@@ -5343,6 +5494,7 @@ RotavirusVaccinationAge,19-35 Months,TX,1299.000000,68.500000,63.400000,73.20000
 RotavirusVaccinationFacilityType,Other,OH,41.000000,48.300000,28.900000,68.200000,2009
 RotavirusVaccinationWIC,Not Participating ,NM,115.000000,73.600000,59.400000,84.100000,2014
 RotavirusVaccinationFacilityType,Mixed,OH,41.000000,84.100000,66.100000,93.500000,2011
+RotavirusVaccinationWIC,Participating,US,6982.000000,69.300000,67.200000,71.200000,2015
 RotavirusVaccinationWIC,Participating,PA,252.000000,70.100000,59.600000,78.800000,2016
 RotavirusVaccinationFacilityType,Other,WI,81.000000,81.000000,69.200000,89.000000,2017
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,NM,112.000000,64.300000,53.000000,74.200000,2013
@@ -5443,8 +5595,10 @@ RotavirusVaccinationFacilityType,Other,WY,46.000000,61.400000,43.300000,76.80000
 RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,NY,43.000000,61.100000,44.300000,75.600000,2011
 RotavirusVaccinationFacilityType,Private,CO,222.000000,64.100000,55.600000,71.800000,2010
 RotavirusVaccinationPoverty,Living Below Poverty,OR,47.000000,65.600000,49.100000,79.000000,2015
+RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,US,300.000000,57.700000,48.000000,66.800000,2011
 RotavirusVaccinationVFCProgramProvider,Participating,ID,188.000000,76.900000,69.400000,83.000000,2015
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,IA,99.000000,84.400000,74.200000,91.100000,2016
+RotavirusVaccinationAge,19-35 Months,US,14988.000000,74.100000,72.600000,75.500000,2016
 RotavirusVaccinationAge,19-35 Months,GA,178.000000,64.600000,53.800000,74.000000,2013
 RotavirusVaccinationVFCProgramProvider,Participating,DC,172.000000,75.100000,65.400000,82.800000,2017
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,AR,120.000000,46.900000,35.300000,58.800000,2010
@@ -5501,6 +5655,7 @@ RotavirusVaccinationPoverty,Living Below Poverty,NJ,51.000000,62.000000,46.50000
 RotavirusVaccinationAge,7 Months,VA,373.000000,67.100000,58.400000,74.800000,2015
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,VT,72.000000,53.300000,40.200000,66.000000,2012
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,NY,153.000000,56.000000,46.300000,65.200000,2010
+RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,US,957.000000,69.300000,63.600000,74.400000,2012
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,OR,152.000000,69.900000,61.000000,77.400000,2010
 RotavirusVaccinationPoverty,Living At or Above Poverty,SC,157.000000,79.200000,69.100000,86.700000,2014
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,FL,115.000000,67.600000,54.600000,78.300000,2012
@@ -5533,6 +5688,7 @@ RotavirusVaccinationAge,7 Months,IA,252.000000,66.100000,58.900000,72.700000,201
 RotavirusVaccinationAge,19-35 Months,KY,350.000000,45.300000,39.600000,51.200000,2009
 RotavirusVaccinationAge,7 Months,WY,257.000000,69.100000,62.100000,75.400000,2012
 RotavirusVaccinationVFCProgramProvider,Not Participating ,KS,58.000000,50.000000,34.500000,65.500000,2012
+RotavirusVaccinationFacilityType,Public,US,1982.000000,56.700000,52.600000,60.700000,2011
 RotavirusVaccinationFacilityType,Private,DC,167.000000,74.000000,64.100000,81.900000,2016
 RotavirusVaccinationVFCProgramProvider,Participating,NM,298.000000,72.900000,65.500000,79.200000,2011
 RotavirusVaccinationAge,7 Months,RI,239.000000,88.700000,82.800000,92.800000,2016
@@ -5542,6 +5698,7 @@ RotavirusVaccinationWIC,Participating,SD,102.000000,68.300000,57.100000,77.80000
 RotavirusVaccinationUrbanicity,Living In A Non MSA,SD,113.000000,72.200000,61.000000,81.200000,2015
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,OR,70.000000,73.500000,58.300000,84.600000,2017
 RotavirusVaccinationPoverty,Living At or Above Poverty,DE,182.000000,80.900000,72.500000,87.200000,2012
+RotavirusVaccinationPoverty,Living Below Poverty,US,4306.000000,61.100000,58.600000,63.400000,2011
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,AK,145.000000,59.000000,49.500000,67.900000,2010
 RotavirusVaccinationAge,7 Months,GA,270.000000,71.600000,63.300000,78.700000,2014
 RotavirusVaccinationAge,7 Months,OK,326.000000,44.400000,37.900000,51.000000,2010
@@ -5613,6 +5770,7 @@ RotavirusVaccinationAge,19-35 Months,ID,225.000000,80.200000,73.400000,85.500000
 RotavirusVaccinationAge,7 Months,NJ,332.000000,53.900000,46.700000,60.900000,2010
 RotavirusVaccinationWIC,Not Participating ,OK,109.000000,69.500000,57.200000,79.500000,2011
 RotavirusVaccinationWIC,Participating,IN,125.000000,59.500000,48.800000,69.300000,2012
+RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,US,6071.000000,46.600000,44.500000,48.700000,2009
 RotavirusVaccinationVFCProgramProvider,Not Participating ,KY,62.000000,78.200000,64.200000,87.700000,2012
 RotavirusVaccinationWIC,Participating,MD,220.000000,36.100000,24.700000,49.300000,2009
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,CT,167.000000,84.600000,76.000000,90.600000,2017
@@ -5631,6 +5789,7 @@ RotavirusVaccinationAge,19 Months,MO,188.000000,72.400000,64.400000,79.200000,20
 RotavirusVaccinationAge,7 Months,IL,571.000000,67.200000,61.800000,72.100000,2012
 RotavirusVaccinationAge,7 Months,NE,276.000000,75.500000,67.600000,82.100000,2011
 RotavirusVaccinationAge,19-35 Months,DC,223.000000,68.400000,59.800000,75.900000,2013
+RotavirusVaccinationRaceEthnicity,Hispanic,US,3324.000000,72.900000,69.600000,76.000000,2015
 RotavirusVaccinationAge,19 Months,GA,284.000000,71.800000,64.100000,78.400000,2012
 RotavirusVaccinationPoverty,Living Below Poverty,SD,40.000000,44.900000,29.700000,61.000000,2009
 RotavirusVaccinationUrbanicity,Living In A Non MSA,ID,68.000000,73.700000,60.000000,84.000000,2015
@@ -5673,6 +5832,7 @@ RotavirusVaccinationAge,7 Months,MT,216.000000,73.200000,65.100000,80.000000,201
 RotavirusVaccinationAge,19 Months,HI,236.000000,73.200000,65.900000,79.500000,2017
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MO,99.000000,73.200000,58.400000,84.100000,2014
 RotavirusVaccinationFacilityType,Public,SC,35.000000,83.800000,65.700000,93.300000,2015
+RotavirusVaccinationFacilityType,Mixed,US,2109.000000,43.100000,39.200000,47.000000,2009
 RotavirusVaccinationFacilityType,Other,CO,34.000000,76.000000,54.800000,89.200000,2015
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,IA,97.000000,66.800000,55.300000,76.600000,2015
 RotavirusVaccinationAge,19-35 Months,SC,257.000000,42.500000,36.000000,49.300000,2009
@@ -5717,6 +5877,7 @@ RotavirusVaccinationFacilityType,Private,CA,177.000000,75.900000,64.200000,84.70
 RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,NJ,36.000000,75.000000,57.500000,86.900000,2016
 RotavirusVaccinationWIC,Not Participating ,NV,102.000000,78.300000,67.800000,86.000000,2016
 RotavirusVaccinationFacilityType,Public,OK,33.000000,53.200000,32.000000,73.400000,2015
+RotavirusVaccinationAge,19 Months,US,14893.000000,71.600000,70.000000,73.200000,2014
 RotavirusVaccinationRaceEthnicity,Hispanic,NV,89.000000,57.400000,45.000000,68.900000,2017
 RotavirusVaccinationPoverty,Living At or Above Poverty,NH,199.000000,84.800000,77.700000,89.900000,2017
 RotavirusVaccinationFacilityType,Mixed,TN,50.000000,60.900000,42.600000,76.500000,2011
@@ -5839,6 +6000,7 @@ RotavirusVaccinationUrbanicity,Living In A Non MSA,MD,30.000000,57.100000,30.600
 RotavirusVaccinationAge,19-35 Months,SD,275.000000,59.500000,52.300000,66.200000,2012
 RotavirusVaccinationPoverty,Living Below Poverty,LA,98.000000,57.900000,43.900000,70.700000,2014
 RotavirusVaccinationWIC,Participating,WV,165.000000,62.800000,53.100000,71.500000,2012
+RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,US,1595.000000,60.400000,56.300000,64.300000,2012
 RotavirusVaccinationAge,19 Months,PR,296.000000,60.100000,53.100000,66.800000,2016
 RotavirusVaccinationWIC,Participating,MO,103.000000,68.900000,57.300000,78.600000,2015
 RotavirusVaccinationFacilityType,Private,VA,227.000000,82.200000,71.100000,89.600000,2014
@@ -5858,6 +6020,7 @@ RotavirusVaccinationPoverty,Living At or Above Poverty,WA,319.000000,51.500000,4
 RotavirusVaccinationAge,7 Months,VT,280.000000,73.400000,66.900000,79.000000,2013
 RotavirusVaccinationPoverty,Living Below Poverty,VA,32.000000,55.500000,33.700000,75.300000,2014
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,TX,325.000000,72.000000,62.300000,80.000000,2014
+RotavirusVaccinationAge,19 Months,US,14988.000000,74.000000,72.500000,75.500000,2016
 RotavirusVaccinationUrbanicity,Living In A Non MSA,AK,129.000000,37.400000,28.400000,47.200000,2010
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,AK,120.000000,65.300000,52.800000,76.000000,2011
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MA,179.000000,82.100000,73.900000,88.200000,2012
@@ -5866,6 +6029,7 @@ RotavirusVaccinationFacilityType,Other,IN,41.000000,36.300000,20.700000,55.30000
 RotavirusVaccinationAge,19-35 Months,OH,280.000000,48.900000,41.600000,56.200000,2009
 RotavirusVaccinationVFCProgramProvider,Not Participating ,MD,62.000000,82.600000,62.000000,93.300000,2015
 RotavirusVaccinationPoverty,Living Below Poverty,ND,31.000000,50.500000,32.400000,68.500000,2010
+RotavirusVaccinationPoverty,Living At or Above Poverty,US,10735.000000,76.800000,75.200000,78.400000,2015
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,CO,178.000000,74.300000,63.400000,82.900000,2012
 RotavirusVaccinationAge,19 Months,AR,245.000000,69.800000,60.800000,77.600000,2014
 RotavirusVaccinationVFCProgramProvider,Participating,MA,233.000000,85.300000,78.000000,90.500000,2013
@@ -5884,6 +6048,7 @@ RotavirusVaccinationFacilityType,Private,NV,175.000000,61.100000,49.900000,71.20
 RotavirusVaccinationFacilityType,Mixed,OK,72.000000,38.800000,26.600000,52.600000,2009
 RotavirusVaccinationAge,7 Months,NC,267.000000,74.300000,66.500000,80.700000,2016
 RotavirusVaccinationVFCProgramProvider,Participating,NE,195.000000,78.800000,71.600000,84.500000,2017
+RotavirusVaccinationWIC,Not Participating ,US,7138.000000,77.900000,76.100000,79.700000,2013
 RotavirusVaccinationVFCProgramProvider,Participating,FL,187.000000,67.600000,56.700000,76.900000,2014
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,CT,52.000000,52.000000,35.400000,68.200000,2010
 RotavirusVaccinationAge,7 Months,NH,248.000000,82.600000,76.300000,87.500000,2014
@@ -5941,6 +6106,7 @@ RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,AZ,103.000000,73
 RotavirusVaccinationVFCProgramProvider,Participating,OR,206.000000,76.700000,68.400000,83.300000,2017
 RotavirusVaccinationFacilityType,Public,PA,47.000000,64.100000,43.800000,80.400000,2010
 RotavirusVaccinationUrbanicity,Living In A Non MSA,DE,47.000000,46.500000,31.200000,62.500000,2009
+RotavirusVaccinationVFCProgramProvider,Not Participating ,US,1203.000000,72.600000,67.100000,77.600000,2013
 RotavirusVaccinationAge,19-35 Months,NE,239.000000,79.600000,71.900000,85.500000,2014
 RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,TX,52.000000,69.100000,43.900000,86.400000,2012
 RotavirusVaccinationVFCProgramProvider,Participating,VA,197.000000,87.900000,78.900000,93.400000,2016
@@ -5990,9 +6156,11 @@ RotavirusVaccinationWIC,Participating,AK,94.000000,25.500000,17.000000,36.300000
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,VA,199.000000,53.500000,44.800000,62.100000,2009
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,MD,65.000000,65.500000,50.700000,77.800000,2012
 RotavirusVaccinationPoverty,Living At or Above Poverty,UT,205.000000,79.700000,72.800000,85.200000,2017
+RotavirusVaccinationRaceEthnicity,American Indian or Alaska Native only  non-Hispanic,US,260.000000,50.900000,40.900000,60.800000,2010
 RotavirusVaccinationUrbanicity,Living In A Non MSA,UT,30.000000,49.000000,27.400000,71.000000,2015
 RotavirusVaccinationAge,24 Months,HI,243.000000,73.300000,65.900000,79.500000,2013
 RotavirusVaccinationVFCProgramProvider,Not Participating ,TX,163.000000,74.700000,63.700000,83.200000,2016
+RotavirusVaccinationAge,19-35 Months,US,15333.000000,73.200000,71.600000,74.700000,2017
 RotavirusVaccinationVFCProgramProvider,Participating,DC,199.000000,69.900000,61.500000,77.200000,2016
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,AR,99.000000,63.300000,48.300000,76.100000,2011
 RotavirusVaccinationWIC,Not Participating ,SD,139.000000,54.800000,39.900000,68.900000,2011
@@ -6080,6 +6248,7 @@ RotavirusVaccinationAge,7 Months,IA,313.000000,69.900000,62.500000,76.400000,201
 RotavirusVaccinationFacilityType,Other,NE,60.000000,68.100000,52.900000,80.200000,2012
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,LA,84.000000,53.800000,41.000000,66.100000,2009
 RotavirusVaccinationAge,7 Months,WY,196.000000,65.700000,57.300000,73.200000,2013
+RotavirusVaccinationFacilityType,Public,US,1748.000000,58.000000,53.400000,62.500000,2012
 RotavirusVaccinationFacilityType,Private,DC,141.000000,82.100000,70.000000,90.000000,2017
 RotavirusVaccinationVFCProgramProvider,Participating,NM,270.000000,56.200000,49.000000,63.100000,2010
 RotavirusVaccinationAge,24 Months,WV,241.000000,69.600000,61.600000,76.600000,2015
@@ -6089,11 +6258,13 @@ RotavirusVaccinationUrbanicity,Living In A Non MSA,SD,137.000000,68.100000,56.60
 RotavirusVaccinationWIC,Not Participating ,PA,333.000000,75.600000,65.200000,83.700000,2017
 RotavirusVaccinationPoverty,Living At or Above Poverty,DE,143.000000,84.200000,75.500000,90.200000,2013
 RotavirusVaccinationVFCProgramProvider,Participating,AL,215.000000,79.000000,70.900000,85.300000,2017
+RotavirusVaccinationPoverty,Living Below Poverty,US,3615.000000,51.500000,48.700000,54.200000,2010
 RotavirusVaccinationAge,7 Months,GA,286.000000,73.800000,66.200000,80.100000,2015
 RotavirusVaccinationRaceEthnicity,Hispanic,AR,39.000000,58.600000,37.400000,77.000000,2011
 RotavirusVaccinationAge,19-35 Months,MA,275.000000,45.200000,38.300000,52.300000,2009
 RotavirusVaccinationAge,7 Months,OK,303.000000,57.600000,50.100000,64.800000,2011
 RotavirusVaccinationAge,19-35 Months,MD,311.000000,71.200000,63.800000,77.600000,2012
+RotavirusVaccinationVFCProgramProvider,Participating,US,13585.000000,69.100000,67.600000,70.600000,2012
 RotavirusVaccinationRaceEthnicity,Hispanic,NJ,77.000000,69.700000,56.000000,80.600000,2015
 RotavirusVaccinationAge,19 Months,TX,1500.000000,75.700000,71.700000,79.400000,2015
 RotavirusVaccinationRaceEthnicity,Hispanic,UT,40.000000,83.600000,67.600000,92.600000,2017
@@ -6175,17 +6346,20 @@ RotavirusVaccinationAge,7 Months,IL,559.000000,75.400000,70.600000,79.600000,201
 RotavirusVaccinationWIC,Participating,DE,97.000000,56.500000,45.100000,67.300000,2009
 RotavirusVaccinationFacilityType,Mixed,TX,295.000000,63.100000,53.100000,72.100000,2012
 RotavirusVaccinationAge,19-35 Months,DC,320.000000,54.200000,47.400000,60.900000,2012
+RotavirusVaccinationRaceEthnicity,Hispanic,US,2727.000000,73.000000,69.000000,76.500000,2016
 RotavirusVaccinationAge,7 Months,WI,221.000000,77.600000,70.000000,83.700000,2016
 RotavirusVaccinationAge,19 Months,GA,178.000000,64.600000,53.800000,74.000000,2013
 RotavirusVaccinationFacilityType,Public,AK,69.000000,70.600000,56.100000,81.800000,2013
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,AZ,81.000000,59.600000,44.300000,73.300000,2016
 RotavirusVaccinationAge,24 Months,RI,293.000000,79.800000,72.700000,85.400000,2012
+RotavirusVaccinationAge,7 Months,US,15167.000000,73.200000,71.800000,74.600000,2015
 RotavirusVaccinationAge,19-35 Months,WY,196.000000,65.700000,57.300000,73.200000,2013
 RotavirusVaccinationVFCProgramProvider,Participating,MN,162.000000,74.500000,63.600000,83.000000,2014
 RotavirusVaccinationAge,19-35 Months,VT,246.000000,76.600000,69.800000,82.300000,2014
 RotavirusVaccinationRaceEthnicity,Hispanic,CA,102.000000,61.400000,47.500000,73.700000,2017
 RotavirusVaccinationFacilityType,Mixed,CO,40.000000,55.200000,29.200000,78.700000,2009
 RotavirusVaccinationRaceEthnicity,Hispanic,WA,95.000000,18.400000,11.100000,28.900000,2009
+RotavirusVaccinationAge,24 Months,US,19144.000000,67.300000,66.000000,68.500000,2011
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,AL,104.000000,77.600000,67.700000,85.200000,2013
 RotavirusVaccinationVFCProgramProvider,Participating,AR,264.000000,29.400000,23.400000,36.200000,2009
 RotavirusVaccinationWIC,Not Participating ,MI,130.000000,83.300000,74.800000,89.300000,2013
@@ -6240,6 +6414,7 @@ RotavirusVaccinationRaceEthnicity,Hispanic,NE,34.000000,59.900000,42.200000,75.4
 RotavirusVaccinationAge,19-35 Months,IN,322.000000,54.300000,47.900000,60.500000,2010
 RotavirusVaccinationAge,19 Months,AK,288.000000,67.600000,61.000000,73.500000,2016
 RotavirusVaccinationWIC,Not Participating ,FL,109.000000,69.200000,56.700000,79.400000,2013
+RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,US,9812.000000,70.500000,69.000000,72.100000,2012
 RotavirusVaccinationUrbanicity,Living In A Non MSA,TN,35.000000,69.100000,48.800000,84.000000,2015
 RotavirusVaccinationAge,24 Months,MT,251.000000,67.300000,60.000000,73.900000,2015
 RotavirusVaccinationFacilityType,Private,MD,232.000000,58.100000,49.200000,66.400000,2010
@@ -6258,7 +6433,9 @@ RotavirusVaccinationFacilityType,Private,CA,171.000000,79.300000,68.600000,87.10
 RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,NJ,44.000000,66.800000,48.000000,81.400000,2017
 RotavirusVaccinationWIC,Not Participating ,NV,114.000000,77.900000,67.400000,85.700000,2017
 RotavirusVaccinationFacilityType,Private,MA,168.000000,88.300000,80.100000,93.400000,2013
+RotavirusVaccinationAge,19 Months,US,15167.000000,73.200000,71.800000,74.500000,2015
 RotavirusVaccinationPoverty,Living At or Above Poverty,NH,195.000000,77.900000,69.000000,84.800000,2016
+RotavirusVaccinationPoverty,Unknown poverty,US,604.000000,66.000000,58.200000,73.000000,2017
 RotavirusVaccinationPoverty,Living At or Above Poverty,KY,149.000000,67.900000,56.700000,77.400000,2014
 RotavirusVaccinationFacilityType,Private,AZ,192.000000,78.600000,69.000000,85.900000,2014
 RotavirusVaccinationPoverty,Living Below Poverty,WA,46.000000,49.900000,33.400000,66.500000,2013
@@ -6274,6 +6451,7 @@ RotavirusVaccinationFacilityType,Other,PA,175.000000,73.200000,61.700000,82.3000
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,SD,38.000000,70.800000,46.800000,87.100000,2011
 RotavirusVaccinationFacilityType,Other,WA,41.000000,58.200000,38.600000,75.500000,2011
 RotavirusVaccinationFacilityType,Private,MI,130.000000,76.800000,66.900000,84.400000,2015
+RotavirusVaccinationUrbanicity,Living In A Non MSA,US,2791.000000,68.600000,65.500000,71.600000,2015
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,CA,140.000000,75.400000,60.000000,86.300000,2017
 RotavirusVaccinationPoverty,Living At or Above Poverty,WA,254.000000,82.500000,76.000000,87.500000,2016
 RotavirusVaccinationUrbanicity,Living In A Non MSA,MT,164.000000,21.100000,14.600000,29.400000,2009
@@ -6320,6 +6498,7 @@ RotavirusVaccinationAge,19 Months,CT,267.000000,79.700000,73.100000,84.900000,20
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MA,231.000000,71.400000,63.500000,78.200000,2010
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,MS,107.000000,69.200000,56.600000,79.400000,2015
 RotavirusVaccinationWIC,Participating,MA,72.000000,74.800000,61.500000,84.600000,2014
+RotavirusVaccinationFacilityType,Mixed,US,2223.000000,70.000000,65.100000,74.400000,2017
 RotavirusVaccinationVFCProgramProvider,Participating,AR,200.000000,71.200000,61.500000,79.300000,2014
 RotavirusVaccinationAge,19 Months,CO,264.000000,73.700000,66.000000,80.100000,2017
 RotavirusVaccinationAge,19 Months,IA,214.000000,74.700000,65.700000,82.000000,2013
@@ -6344,11 +6523,13 @@ RotavirusVaccinationFacilityType,Private,NV,190.000000,69.600000,61.500000,76.70
 RotavirusVaccinationUrbanicity,Living In A Non MSA,WA,35.000000,69.500000,50.300000,83.700000,2016
 RotavirusVaccinationRaceEthnicity,Hispanic,CT,56.000000,81.600000,68.300000,90.100000,2016
 RotavirusVaccinationPoverty,Living Below Poverty,LA,76.000000,62.600000,49.100000,74.300000,2015
+RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,US,1909.000000,62.500000,58.900000,65.900000,2011
 RotavirusVaccinationVFCProgramProvider,Participating,AL,201.000000,66.400000,57.800000,74.000000,2012
 RotavirusVaccinationFacilityType,Public,CA,33.000000,65.600000,44.700000,81.800000,2016
 RotavirusVaccinationWIC,Participating,OK,115.000000,68.100000,57.600000,77.100000,2016
 RotavirusVaccinationFacilityType,Private,VA,281.000000,69.100000,58.200000,78.300000,2015
 RotavirusVaccinationAge,24 Months,KS,359.000000,63.600000,55.000000,71.400000,2011
+RotavirusVaccinationFacilityType,Other,US,2631.000000,65.600000,61.700000,69.400000,2014
 RotavirusVaccinationFacilityType,Private,AL,171.000000,83.500000,74.700000,89.700000,2015
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,LA,162.000000,70.600000,60.200000,79.200000,2017
 RotavirusVaccinationFacilityType,Other,ND,96.000000,87.200000,76.500000,93.500000,2012
@@ -6389,6 +6570,7 @@ RotavirusVaccinationFacilityType,Mixed,PA,35.000000,60.100000,39.100000,78.00000
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MS,79.000000,66.100000,51.600000,78.200000,2015
 RotavirusVaccinationWIC,Not Participating ,NE,151.000000,80.500000,70.100000,87.900000,2014
 RotavirusVaccinationVFCProgramProvider,Participating,NE,169.000000,80.100000,72.600000,85.900000,2016
+RotavirusVaccinationWIC,Not Participating ,US,7939.000000,77.400000,75.400000,79.300000,2014
 RotavirusVaccinationVFCProgramProvider,Participating,FL,205.000000,60.700000,51.800000,68.900000,2015
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,CT,117.000000,65.400000,53.500000,75.700000,2011
 RotavirusVaccinationAge,7 Months,NH,195.000000,80.900000,74.000000,86.400000,2015
@@ -6411,6 +6593,7 @@ RotavirusVaccinationUrbanicity,Living In A Non MSA,NV,34.000000,36.300000,19.900
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,NM,107.000000,76.400000,65.400000,84.700000,2015
 RotavirusVaccinationVFCProgramProvider,Not Participating ,GA,51.000000,50.800000,34.100000,67.300000,2009
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,IN,357.000000,50.200000,41.500000,58.900000,2009
+RotavirusVaccinationPoverty,Living At or Above Poverty,US,11062.000000,78.200000,76.400000,79.900000,2016
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,NY,49.000000,74.700000,58.100000,86.300000,2015
 RotavirusVaccinationPoverty,Living Below Poverty,DE,57.000000,65.400000,49.100000,78.700000,2016
 RotavirusVaccinationWIC,Participating,ME,100.000000,76.100000,65.000000,84.400000,2014
@@ -6456,6 +6639,7 @@ RotavirusVaccinationPoverty,Living Below Poverty,WV,81.000000,57.600000,44.20000
 RotavirusVaccinationUrbanicity,Living In A Non MSA,ND,164.000000,70.200000,61.100000,77.900000,2013
 RotavirusVaccinationVFCProgramProvider,Not Participating ,GA,36.000000,88.900000,71.100000,96.300000,2016
 RotavirusVaccinationAge,24 Months,NE,231.000000,73.000000,66.100000,78.900000,2015
+RotavirusVaccinationAge,7 Months,US,14988.000000,74.100000,72.600000,75.500000,2016
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,RI,91.000000,85.600000,74.000000,92.500000,2015
 RotavirusVaccinationUrbanicity,Living In A Non MSA,WI,40.000000,83.300000,67.300000,92.300000,2016
 RotavirusVaccinationFacilityType,Private,HI,196.000000,48.300000,40.000000,56.600000,2010
@@ -6572,12 +6756,14 @@ RotavirusVaccinationFacilityType,Private,PA,344.000000,75.100000,67.700000,81.40
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,CT,173.000000,73.200000,63.800000,80.900000,2012
 RotavirusVaccinationWIC,Participating,GA,141.000000,49.700000,40.500000,58.900000,2010
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,KS,119.000000,66.100000,54.800000,75.700000,2012
+RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,US,731.000000,71.800000,63.600000,78.700000,2016
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,SD,84.000000,77.100000,64.400000,86.300000,2016
 RotavirusVaccinationFacilityType,Mixed,WA,63.000000,46.500000,29.900000,63.800000,2010
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,NV,126.000000,64.600000,53.400000,74.300000,2013
 RotavirusVaccinationAge,7 Months,ND,303.000000,78.400000,72.500000,83.300000,2013
 RotavirusVaccinationAge,7 Months,KS,234.000000,77.500000,69.600000,83.900000,2014
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,LA,114.000000,65.700000,52.300000,77.000000,2014
+RotavirusVaccinationFacilityType,Public,US,1535.000000,64.400000,59.600000,68.900000,2013
 RotavirusVaccinationAge,19-35 Months,NV,202.000000,75.800000,68.500000,81.900000,2016
 RotavirusVaccinationVFCProgramProvider,Participating,NM,320.000000,45.800000,39.100000,52.600000,2009
 RotavirusVaccinationFacilityType,Mixed,MO,49.000000,62.200000,42.600000,78.500000,2014
@@ -6590,6 +6776,7 @@ RotavirusVaccinationFacilityType,Mixed,WV,59.000000,76.600000,60.700000,87.40000
 RotavirusVaccinationWIC,Not Participating ,PA,312.000000,79.700000,71.600000,86.000000,2016
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,AR,160.000000,75.300000,66.600000,82.300000,2016
 RotavirusVaccinationFacilityType,Mixed,ID,46.000000,74.100000,56.600000,86.300000,2017
+RotavirusVaccinationPoverty,Living Below Poverty,US,3508.000000,37.700000,34.900000,40.600000,2009
 RotavirusVaccinationAge,7 Months,GA,284.000000,71.800000,64.100000,78.400000,2012
 RotavirusVaccinationAge,19-35 Months,MA,297.000000,70.900000,64.100000,76.900000,2010
 RotavirusVaccinationAge,7 Months,OK,282.000000,56.400000,48.600000,63.900000,2012
@@ -6659,6 +6846,7 @@ RotavirusVaccinationPoverty,Living Below Poverty,GA,46.000000,45.300000,28.90000
 RotavirusVaccinationVFCProgramProvider,Participating,OK,275.000000,31.900000,25.800000,38.700000,2009
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,CO,161.000000,76.900000,66.900000,84.600000,2017
 RotavirusVaccinationWIC,Not Participating ,GA,135.000000,79.300000,67.900000,87.500000,2015
+RotavirusVaccinationUrbanicity,Living In An MSA Central City,US,6794.000000,72.700000,70.600000,74.800000,2015
 RotavirusVaccinationWIC,Not Participating ,OK,112.000000,35.600000,26.200000,46.300000,2009
 RotavirusVaccinationAge,19-35 Months,AR,258.000000,70.700000,63.100000,77.300000,2017
 RotavirusVaccinationFacilityType,Mixed,NH,42.000000,83.400000,63.500000,93.500000,2014
@@ -6686,6 +6874,7 @@ RotavirusVaccinationAge,19 Months,MO,226.000000,76.100000,68.500000,82.400000,20
 RotavirusVaccinationAge,7 Months,IL,583.000000,73.700000,67.800000,78.800000,2014
 RotavirusVaccinationRaceEthnicity,Hispanic,VA,38.000000,61.500000,39.200000,79.900000,2015
 RotavirusVaccinationAge,19-35 Months,DC,321.000000,73.000000,66.400000,78.800000,2015
+RotavirusVaccinationRaceEthnicity,Hispanic,US,3175.000000,71.100000,67.100000,74.800000,2017
 RotavirusVaccinationAge,7 Months,WI,218.000000,79.100000,71.900000,84.800000,2017
 RotavirusVaccinationAge,19 Months,GA,270.000000,71.400000,63.100000,78.500000,2014
 RotavirusVaccinationAge,24 Months,MA,237.000000,80.300000,72.900000,86.100000,2014
@@ -6721,6 +6910,7 @@ RotavirusVaccinationAge,19-35 Months,TN,273.000000,75.400000,67.800000,81.700000
 RotavirusVaccinationAge,19 Months,KS,207.000000,77.100000,69.900000,83.000000,2016
 RotavirusVaccinationWIC,Participating,KS,109.000000,72.000000,61.500000,80.500000,2015
 RotavirusVaccinationFacilityType,Private,CT,158.000000,81.100000,72.600000,87.400000,2013
+RotavirusVaccinationFacilityType,Mixed,US,2722.000000,67.500000,64.200000,70.600000,2011
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,IA,74.000000,56.400000,43.400000,68.600000,2009
 RotavirusVaccinationAge,19-35 Months,ME,209.000000,72.000000,64.500000,78.500000,2013
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,AZ,99.000000,69.000000,54.800000,80.300000,2016
@@ -6732,6 +6922,7 @@ RotavirusVaccinationAge,7 Months,OH,284.000000,64.300000,56.000000,71.800000,201
 RotavirusVaccinationFacilityType,Other,IN,42.000000,83.000000,68.100000,91.800000,2016
 RotavirusVaccinationAge,7 Months,TX,1299.000000,68.500000,63.400000,73.200000,2014
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,OK,118.000000,46.900000,35.600000,58.500000,2010
+RotavirusVaccinationPoverty,Living At or Above Poverty,US,12984.000000,47.100000,45.600000,48.600000,2009
 RotavirusVaccinationVFCProgramProvider,Participating,AK,256.000000,61.300000,53.800000,68.400000,2012
 RotavirusVaccinationVFCProgramProvider,Not Participating ,IA,32.000000,66.500000,43.800000,83.500000,2011
 RotavirusVaccinationVFCProgramProvider,Not Participating ,TN,66.000000,62.400000,44.300000,77.600000,2012
@@ -6824,6 +7015,7 @@ RotavirusVaccinationFacilityType,Other,WV,41.000000,63.100000,42.100000,80.10000
 RotavirusVaccinationAge,24 Months,DC,369.000000,62.100000,54.900000,68.800000,2011
 RotavirusVaccinationAge,7 Months,UT,263.000000,75.700000,68.000000,82.100000,2014
 RotavirusVaccinationAge,19-35 Months,HI,250.000000,75.400000,68.700000,81.100000,2014
+RotavirusVaccinationVFCProgramProvider,Not Participating ,US,1774.000000,67.800000,63.300000,72.000000,2011
 RotavirusVaccinationFacilityType,Mixed,NY,53.000000,54.400000,38.400000,69.600000,2010
 RotavirusVaccinationPoverty,Living Below Poverty,IN,47.000000,75.600000,59.800000,86.600000,2016
 RotavirusVaccinationFacilityType,Other,TX,149.000000,59.200000,47.700000,69.700000,2016
@@ -6861,6 +7053,7 @@ RotavirusVaccinationFacilityType,Private,NV,169.000000,69.900000,61.300000,77.30
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,TX,89.000000,69.700000,56.200000,80.600000,2017
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,UT,252.000000,43.200000,35.800000,51.000000,2009
 RotavirusVaccinationPoverty,Living Below Poverty,LA,104.000000,59.100000,46.700000,70.500000,2012
+RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,US,1589.000000,52.700000,49.000000,56.300000,2010
 RotavirusVaccinationFacilityType,Private,UT,215.000000,72.300000,62.600000,80.300000,2011
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,OH,197.000000,70.500000,60.400000,79.000000,2012
 RotavirusVaccinationFacilityType,Public,CA,30.000000,88.200000,73.600000,95.300000,2017
@@ -6868,6 +7061,7 @@ RotavirusVaccinationWIC,Participating,OK,110.000000,60.800000,49.600000,71.00000
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,WY,226.000000,36.800000,30.300000,43.900000,2009
 RotavirusVaccinationWIC,Participating,MO,123.000000,41.600000,31.100000,52.800000,2009
 RotavirusVaccinationAge,19-35 Months,WI,221.000000,77.600000,70.000000,83.700000,2016
+RotavirusVaccinationFacilityType,Other,US,2536.000000,70.600000,67.200000,73.800000,2015
 RotavirusVaccinationFacilityType,Other,ND,142.000000,87.900000,81.600000,92.300000,2013
 RotavirusVaccinationAge,24 Months,NC,269.000000,86.700000,80.200000,91.300000,2014
 RotavirusVaccinationWIC,Participating,KS,86.000000,67.500000,53.800000,78.700000,2017
@@ -6909,6 +7103,7 @@ RotavirusVaccinationAge,19-35 Months,ID,235.000000,79.500000,71.900000,85.400000
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MS,53.000000,73.400000,55.000000,86.100000,2014
 RotavirusVaccinationWIC,Not Participating ,NE,145.000000,81.600000,73.100000,87.900000,2013
 RotavirusVaccinationVFCProgramProvider,Participating,NE,188.000000,74.300000,66.400000,80.900000,2015
+RotavirusVaccinationWIC,Not Participating ,US,8141.000000,78.400000,76.500000,80.100000,2015
 RotavirusVaccinationVFCProgramProvider,Participating,FL,219.000000,65.800000,56.100000,74.300000,2012
 RotavirusVaccinationPoverty,Living At or Above Poverty,DE,205.000000,56.700000,48.500000,64.600000,2009
 RotavirusVaccinationRaceEthnicity,Hispanic,OR,41.000000,80.900000,63.700000,91.000000,2015
@@ -6990,6 +7185,7 @@ RotavirusVaccinationPoverty,Living Below Poverty,PA,156.000000,63.000000,51.0000
 RotavirusVaccinationAge,7 Months,NV,202.000000,75.800000,68.500000,81.900000,2016
 RotavirusVaccinationVFCProgramProvider,Participating,NV,284.000000,37.000000,30.500000,44.200000,2009
 RotavirusVaccinationAge,24 Months,NE,239.000000,79.600000,71.900000,85.500000,2014
+RotavirusVaccinationAge,7 Months,US,15333.000000,73.200000,71.600000,74.700000,2017
 RotavirusVaccinationAge,19-35 Months,OK,306.000000,33.400000,27.400000,40.000000,2009
 RotavirusVaccinationUrbanicity,Living In A Non MSA,WI,60.000000,65.300000,48.700000,78.800000,2017
 RotavirusVaccinationAge,19 Months,CO,403.000000,67.700000,59.200000,75.300000,2011
@@ -7041,6 +7237,8 @@ RotavirusVaccinationWIC,Not Participating ,VT,127.000000,75.900000,65.300000,84.
 RotavirusVaccinationAge,7 Months,AL,272.000000,76.200000,68.600000,82.300000,2015
 RotavirusVaccinationFacilityType,Other,IL,81.000000,69.100000,55.000000,80.300000,2013
 RotavirusVaccinationFacilityType,Mixed,TX,204.000000,61.700000,51.000000,71.400000,2010
+RotavirusVaccinationVFCProgramProvider,Participating,US,14820.000000,43.700000,42.200000,45.100000,2009
+RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,US,1111.000000,73.400000,68.200000,78.100000,2016
 RotavirusVaccinationWIC,Not Participating ,RI,128.000000,92.900000,86.600000,96.400000,2016
 RotavirusVaccinationFacilityType,Public,ME,30.000000,58.700000,37.700000,77.000000,2011
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,SD,153.000000,76.900000,67.900000,83.900000,2015
@@ -7051,6 +7249,7 @@ RotavirusVaccinationWIC,Participating,KY,138.000000,61.000000,50.700000,70.40000
 RotavirusVaccinationVFCProgramProvider,Participating,DE,238.000000,85.300000,78.400000,90.200000,2014
 RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,CA,42.000000,75.500000,51.800000,89.800000,2013
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MA,264.000000,82.600000,74.700000,88.400000,2016
+RotavirusVaccinationAge,7 Months,US,17053.000000,43.900000,42.600000,45.300000,2009
 RotavirusVaccinationAge,24 Months,AL,265.000000,66.000000,58.300000,73.000000,2012
 RotavirusVaccinationAge,19-35 Months,WY,219.000000,76.400000,69.300000,82.400000,2015
 RotavirusVaccinationFacilityType,Other,SC,32.000000,63.800000,41.400000,81.500000,2013
@@ -7111,6 +7310,7 @@ RotavirusVaccinationAge,7 Months,ND,334.000000,78.100000,71.000000,83.800000,201
 RotavirusVaccinationAge,7 Months,KS,228.000000,77.000000,70.100000,82.700000,2015
 RotavirusVaccinationAge,19-35 Months,MI,331.000000,46.000000,38.700000,53.400000,2009
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,LA,101.000000,67.200000,54.500000,77.800000,2015
+RotavirusVaccinationFacilityType,Public,US,1538.000000,67.500000,62.000000,72.600000,2014
 RotavirusVaccinationAge,19-35 Months,NV,235.000000,66.000000,58.200000,73.100000,2017
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,PA,299.000000,60.900000,53.300000,68.000000,2009
 RotavirusVaccinationAge,19-35 Months,DC,269.000000,77.300000,69.600000,83.500000,2017
@@ -7207,6 +7407,7 @@ RotavirusVaccinationPoverty,Living Below Poverty,GA,82.000000,69.400000,55.60000
 RotavirusVaccinationFacilityType,Mixed,SD,35.000000,41.600000,25.700000,59.500000,2009
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,CO,134.000000,68.400000,55.400000,79.000000,2016
 RotavirusVaccinationWIC,Not Participating ,GA,122.000000,83.000000,73.600000,89.500000,2016
+RotavirusVaccinationUrbanicity,Living In An MSA Central City,US,6363.000000,71.200000,68.700000,73.600000,2014
 RotavirusVaccinationPoverty,Living At or Above Poverty,TX,1053.000000,74.300000,69.000000,79.000000,2011
 RotavirusVaccinationAge,7 Months,NJ,353.000000,42.400000,36.200000,48.900000,2009
 RotavirusVaccinationWIC,Not Participating ,OK,107.000000,85.500000,73.700000,92.600000,2014
@@ -7243,8 +7444,10 @@ RotavirusVaccinationUrbanicity,Living In A Non MSA,ID,112.000000,68.200000,56.50
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,MA,40.000000,43.300000,26.700000,61.600000,2009
 RotavirusVaccinationUrbanicity,Living In A Non MSA,SD,128.000000,77.400000,68.300000,84.400000,2017
 RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,OK,35.000000,91.600000,79.600000,96.900000,2016
+RotavirusVaccinationAge,7 Months,US,16798.000000,59.200000,57.800000,60.500000,2010
 RotavirusVaccinationFacilityType,Mixed,CO,38.000000,82.400000,65.100000,92.100000,2015
 RotavirusVaccinationRaceEthnicity,Hispanic,WA,54.000000,81.600000,66.900000,90.700000,2011
+RotavirusVaccinationPoverty,Living Below Poverty,US,3337.000000,64.400000,61.100000,67.600000,2017
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,AL,252.000000,82.900000,75.300000,88.500000,2011
 RotavirusVaccinationWIC,Participating,AZ,139.000000,43.200000,34.200000,52.800000,2009
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,ID,89.000000,63.600000,47.900000,76.800000,2011
@@ -7277,6 +7480,7 @@ RotavirusVaccinationFacilityType,Public,SD,35.000000,62.600000,43.200000,78.7000
 RotavirusVaccinationAge,19 Months,KS,192.000000,75.500000,67.200000,82.300000,2017
 RotavirusVaccinationWIC,Participating,KS,128.000000,59.100000,48.800000,68.700000,2012
 RotavirusVaccinationRaceEthnicity,Hispanic,LA,47.000000,69.100000,51.300000,82.600000,2017
+RotavirusVaccinationFacilityType,Mixed,US,2542.000000,61.100000,57.400000,64.600000,2010
 RotavirusVaccinationRaceEthnicity,Hispanic,WY,35.000000,71.100000,50.100000,85.800000,2012
 RotavirusVaccinationAge,24 Months,MO,272.000000,74.400000,66.400000,81.100000,2014
 RotavirusVaccinationAge,19-35 Months,ME,239.000000,75.400000,68.200000,81.400000,2014
@@ -7310,6 +7514,7 @@ RotavirusVaccinationUrbanicity,Living In A Non MSA,TN,62.000000,81.400000,68.500
 RotavirusVaccinationAge,24 Months,MT,220.000000,65.500000,56.900000,73.200000,2013
 RotavirusVaccinationAge,24 Months,ND,205.000000,74.600000,66.900000,81.000000,2016
 RotavirusVaccinationPoverty,Living At or Above Poverty,MT,175.000000,76.200000,67.100000,83.300000,2017
+RotavirusVaccinationFacilityType,Mixed,US,2292.000000,70.800000,66.700000,74.500000,2015
 RotavirusVaccinationFacilityType,Private,AR,90.000000,83.700000,68.100000,92.500000,2014
 RotavirusVaccinationUrbanicity,Living In A Non MSA,KS,78.000000,36.200000,24.100000,50.300000,2009
 RotavirusVaccinationWIC,Not Participating ,IL,292.000000,83.000000,76.700000,87.900000,2017
@@ -7323,6 +7528,7 @@ RotavirusVaccinationFacilityType,Private,MA,201.000000,89.100000,81.900000,93.60
 RotavirusVaccinationAge,19-35 Months,CT,237.000000,76.400000,68.400000,82.900000,2014
 RotavirusVaccinationAge,24 Months,GA,178.000000,64.600000,53.800000,74.000000,2013
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,TX,169.000000,64.100000,50.200000,75.900000,2011
+RotavirusVaccinationPoverty,Unknown poverty,US,529.000000,72.000000,65.600000,77.600000,2015
 RotavirusVaccinationFacilityType,Public,NH,37.000000,75.100000,55.600000,87.900000,2016
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,MT,61.000000,68.500000,54.700000,79.600000,2010
 RotavirusVaccinationPoverty,Living At or Above Poverty,KY,208.000000,76.500000,68.500000,82.900000,2012
@@ -7414,13 +7620,16 @@ RotavirusVaccinationPoverty,Living At or Above Poverty,KS,291.000000,66.700000,5
 RotavirusVaccinationFacilityType,Private,IA,156.000000,57.100000,47.700000,66.100000,2009
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,TX,113.000000,64.200000,48.200000,77.600000,2016
 RotavirusVaccinationAge,7 Months,CT,266.000000,84.000000,77.700000,88.800000,2017
+RotavirusVaccinationPoverty,Living At or Above Poverty,US,10624.000000,76.900000,75.100000,78.500000,2014
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,UT,211.000000,73.600000,64.600000,81.100000,2014
 RotavirusVaccinationPoverty,Living Below Poverty,LA,87.000000,63.000000,50.500000,74.000000,2013
+RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,US,1719.000000,38.000000,34.500000,41.700000,2009
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,OH,180.000000,70.000000,61.300000,77.500000,2013
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,AZ,145.000000,64.300000,52.100000,74.900000,2014
 RotavirusVaccinationWIC,Participating,MO,139.000000,53.800000,44.400000,63.100000,2010
 RotavirusVaccinationFacilityType,Private,VA,209.000000,52.900000,43.800000,61.800000,2009
 RotavirusVaccinationAge,19-35 Months,WI,218.000000,79.100000,71.900000,84.800000,2017
+RotavirusVaccinationFacilityType,Other,US,2612.000000,64.400000,60.900000,67.800000,2012
 RotavirusVaccinationAge,19 Months,WI,221.000000,77.600000,70.000000,83.700000,2016
 RotavirusVaccinationFacilityType,Other,ND,159.000000,79.600000,68.400000,87.500000,2014
 RotavirusVaccinationFacilityType,Mixed,MI,76.000000,72.600000,57.800000,83.700000,2011
@@ -7431,6 +7640,7 @@ RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,MI,126.000000,72
 RotavirusVaccinationRaceEthnicity,Hispanic,GA,58.000000,75.800000,59.000000,87.200000,2017
 RotavirusVaccinationWIC,Not Participating ,CO,169.000000,80.700000,72.300000,87.000000,2015
 RotavirusVaccinationWIC,Participating,ID,83.000000,72.200000,60.000000,81.800000,2017
+RotavirusVaccinationAge,19-35 Months,US,16798.000000,59.200000,57.800000,60.500000,2010
 RotavirusVaccinationFacilityType,Private,MN,98.000000,73.700000,60.500000,83.800000,2017
 RotavirusVaccinationAge,19-35 Months,CO,403.000000,67.700000,59.200000,75.300000,2011
 RotavirusVaccinationVFCProgramProvider,Participating,MS,194.000000,75.800000,68.000000,82.300000,2016
@@ -7497,6 +7707,7 @@ RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,NY,43.000000,38.40000
 RotavirusVaccinationRaceEthnicity,Hispanic,SC,38.000000,79.000000,61.600000,89.900000,2015
 RotavirusVaccinationFacilityType,Other,OK,48.000000,67.800000,50.100000,81.500000,2012
 RotavirusVaccinationAge,24 Months,VA,394.000000,75.400000,68.400000,81.300000,2011
+RotavirusVaccinationVFCProgramProvider,Participating,US,11751.000000,75.100000,73.200000,76.900000,2017
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,IN,107.000000,64.300000,50.600000,76.100000,2014
 RotavirusVaccinationWIC,Participating,ME,119.000000,58.400000,47.500000,68.500000,2012
 RotavirusVaccinationFacilityType,Public,NM,38.000000,55.600000,35.400000,74.100000,2013
@@ -7574,6 +7785,7 @@ RotavirusVaccinationUrbanicity,Living In A Non MSA,AL,108.000000,68.300000,54.70
 RotavirusVaccinationPoverty,Living At or Above Poverty,NY,360.000000,72.300000,66.900000,77.100000,2012
 RotavirusVaccinationAge,24 Months,WI,277.000000,67.400000,59.900000,74.100000,2012
 RotavirusVaccinationUrbanicity,Living In A Non MSA,MI,59.000000,55.500000,39.300000,70.700000,2011
+RotavirusVaccinationUrbanicity,Living In A Non MSA,US,2798.000000,70.500000,67.300000,73.600000,2017
 RotavirusVaccinationPoverty,Living Below Poverty,NE,45.000000,65.600000,49.600000,78.700000,2013
 RotavirusVaccinationWIC,Not Participating ,MS,74.000000,53.200000,35.300000,70.300000,2012
 RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,NY,42.000000,72.900000,53.100000,86.500000,2014
@@ -7605,6 +7817,8 @@ RotavirusVaccinationWIC,Not Participating ,VT,145.000000,73.300000,64.400000,80.
 RotavirusVaccinationAge,7 Months,AL,237.000000,85.400000,77.200000,91.000000,2014
 RotavirusVaccinationFacilityType,Other,IL,89.000000,61.600000,47.100000,74.300000,2012
 RotavirusVaccinationFacilityType,Other,MS,34.000000,53.400000,34.600000,71.300000,2010
+RotavirusVaccinationVFCProgramProvider,Participating,US,13247.000000,59.800000,58.300000,61.300000,2010
+RotavirusVaccinationRaceEthnicity,Multiple Races  non-Hispanic,US,1106.000000,73.400000,67.900000,78.300000,2017
 RotavirusVaccinationWIC,Not Participating ,RI,150.000000,87.200000,79.600000,92.300000,2015
 RotavirusVaccinationAge,7 Months,AK,192.000000,32.300000,25.400000,40.100000,2009
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,PA,231.000000,74.500000,66.500000,81.100000,2012
@@ -7645,6 +7859,7 @@ RotavirusVaccinationFacilityType,Other,MN,85.000000,79.300000,65.900000,88.30000
 RotavirusVaccinationFacilityType,Other,MA,30.000000,93.300000,78.000000,98.200000,2016
 RotavirusVaccinationUrbanicity,Living In A Non MSA,IN,56.000000,75.900000,60.800000,86.500000,2016
 RotavirusVaccinationWIC,Participating,HI,96.000000,71.600000,60.300000,80.700000,2017
+RotavirusVaccinationFacilityType,Private,US,11410.000000,71.200000,69.600000,72.700000,2011
 RotavirusVaccinationPoverty,Living At or Above Poverty,AL,109.000000,71.000000,59.700000,80.100000,2013
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,DE,81.000000,73.900000,59.500000,84.500000,2013
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,CO,156.000000,66.100000,55.600000,75.200000,2010
@@ -7663,6 +7878,7 @@ RotavirusVaccinationWIC,Participating,GA,142.000000,69.300000,59.000000,78.00000
 RotavirusVaccinationUrbanicity,Living In An MSA Central City,KS,79.000000,71.900000,56.300000,83.500000,2014
 RotavirusVaccinationPoverty,Living At or Above Poverty,WV,214.000000,54.800000,47.200000,62.100000,2010
 RotavirusVaccinationPoverty,Living Below Poverty,AK,55.000000,41.300000,27.100000,57.000000,2014
+RotavirusVaccinationRaceEthnicity,Asian only  non-Hispanic,US,487.000000,41.700000,33.300000,50.500000,2009
 RotavirusVaccinationUrbanicity,Living In A Non MSA,OH,34.000000,77.200000,55.700000,90.100000,2016
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,TX,408.000000,62.700000,53.400000,71.100000,2010
 RotavirusVaccinationFacilityType,Other,LA,42.000000,64.900000,47.100000,79.300000,2010
@@ -7674,6 +7890,8 @@ RotavirusVaccinationFacilityType,Public,AR,100.000000,46.900000,34.600000,59.700
 RotavirusVaccinationAge,7 Months,ND,234.000000,79.800000,72.900000,85.300000,2015
 RotavirusVaccinationAge,19-35 Months,MI,270.000000,54.300000,47.000000,61.400000,2010
 RotavirusVaccinationUrbanicity,Living in an MSA Noncentral City,LA,111.000000,61.500000,48.700000,73.000000,2012
+RotavirusVaccinationPoverty,Living At or Above Poverty,US,14210.000000,71.100000,69.600000,72.500000,2011
+RotavirusVaccinationFacilityType,Public,US,1657.000000,65.100000,61.100000,68.900000,2015
 RotavirusVaccinationRaceEthnicity,White only  non-Hispanic,PA,327.000000,69.200000,62.700000,74.900000,2010
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,AR,30.000000,62.700000,42.600000,79.200000,2015
 RotavirusVaccinationAge,19-35 Months,DC,309.000000,70.300000,63.600000,76.300000,2016
@@ -7685,10 +7903,12 @@ RotavirusVaccinationPoverty,Living At or Above Poverty,IL,392.000000,73.700000,6
 RotavirusVaccinationVFCProgramProvider,Participating,LA,220.000000,67.800000,58.700000,75.700000,2014
 RotavirusVaccinationUrbanicity,Living In A Non MSA,SD,165.000000,51.800000,39.600000,63.700000,2011
 RotavirusVaccinationAge,24 Months,TN,210.000000,70.900000,62.800000,77.900000,2015
+RotavirusVaccinationPoverty,Living Below Poverty,US,3903.000000,66.800000,64.000000,69.400000,2015
 RotavirusVaccinationRaceEthnicity,Hispanic,AR,40.000000,45.800000,28.100000,64.700000,2012
 RotavirusVaccinationAge,19-35 Months,MA,270.000000,82.400000,76.100000,87.300000,2012
 RotavirusVaccinationFacilityType,Other,AR,33.000000,55.300000,35.200000,73.800000,2015
 RotavirusVaccinationAge,7 Months,OK,247.000000,72.500000,64.200000,79.600000,2014
+RotavirusVaccinationFacilityType,Private,US,7346.000000,76.500000,74.500000,78.400000,2013
 RotavirusVaccinationRaceEthnicity,Black only  non-Hispanic,MS,60.000000,66.800000,52.000000,78.900000,2013
 RotavirusVaccinationVFCProgramProvider,Participating,CT,251.000000,75.100000,68.100000,80.900000,2012
 RotavirusVaccinationVFCProgramProvider,Participating,ME,226.000000,76.800000,69.600000,82.800000,2014
