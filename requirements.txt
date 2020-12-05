@@ -1,7 +1,8 @@
-numpy>=1.15.4
+autopep8==1.5.4
 bokeh==2.2.3
+ipywidgets==7.5.1
+jupyter_contrib_nbextensions==0.5.1
+numpy==1.19.0
 pandas==1.1.4
-ipywidgets
-qgrid
-autopep8
-jupyter_contrib_nbextensions
+qgrid==1.1.1
+scipy==1.5.4
